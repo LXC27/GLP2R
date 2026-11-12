@@ -1,0 +1,11 @@
+﻿Subgroup,Level,n,events,HR,lo,hi,p,p_interaction,p_int_FDR,Covariates in the subgroup and interaction models
+Age,<65 y,188,15,1.067,0.601,1.894,0.8242,0.207,0.5176,"sex, stage (4 levels), site, MSI; interaction model uses age <65 vs >=65 y"
+Age,>=65 y,263,62,0.795,0.618,1.022,0.07381,0.207,0.5176,"sex, stage (4 levels), site, MSI; interaction model uses age <65 vs >=65 y"
+Sex,female,205,35,0.968,0.678,1.384,0.8604,0.9263,0.9263,"age (per 10 y), stage (4 levels), site, MSI"
+Sex,male,246,42,0.799,0.598,1.067,0.1285,0.9263,0.9263,"age (per 10 y), stage (4 levels), site, MSI"
+Stage,I-II,259,24,0.596,0.387,0.919,0.01911,0.01966,0.09832,"age (per 10 y), sex, site, MSI; interaction model uses stage I-II vs III-IV"
+Stage,III-IV,192,53,0.935,0.719,1.217,0.6189,0.01966,0.09832,"age (per 10 y), sex, site, MSI; interaction model uses stage I-II vs III-IV"
+Site,COAD,332,60,0.862,0.668,1.113,0.256,0.8817,0.9263,"age (per 10 y), sex, stage (4 levels), MSI"
+Site,READ,119,17,0.877,0.522,1.474,0.6207,0.8817,0.9263,"age (per 10 y), sex, stage (4 levels), MSI"
+MSI,MSS/MSI-L,393,69,0.841,0.668,1.058,0.1394,0.5582,0.9263,"age (per 10 y), sex, stage (4 levels), site"
+MSI,MSI-H,58,8,1.121,0.484,2.596,0.7901,0.5582,0.9263,"age (per 10 y), sex, stage (4 levels), site"

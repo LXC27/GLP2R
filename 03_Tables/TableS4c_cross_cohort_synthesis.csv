@@ -1,0 +1,6 @@
+﻿Cohort,n,Events,Adjusted HR per SD,Lower 95% CI,Upper 95% CI,Note
+TCGA-COADREAD (RNA-seq),459,77,0.828,0.677,1.013,"Adjusted for age, sex and stage only (covariates common to all cohorts); omits site and MSI, so this is not model M2"
+GSE39582 (HG-U133 Plus 2),551,186,0.998,0.86,1.157,"Adjusted for age, sex and stage"
+GSE17536 (HG-U133 Plus 2),177,73,0.71,0.548,0.921,"Adjusted for age, sex and stage"
+Random-effects summary,1187,336,0.856,0.705,1.039,Descriptive DerSimonian-Laird summary; I2 = 65%; tau2 = 0.0188; P = 0.115; heterogeneity P(Q) = 0.059
+"Random-effects summary, Hartung-Knapp interval",1187,336,0.856,0.559,1.31,t distribution with 2 df; variance-inflation factor truncated at 1; DerSimonian-Laird tau2; P = 0.256

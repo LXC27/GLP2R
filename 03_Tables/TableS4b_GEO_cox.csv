@@ -1,0 +1,7 @@
+"Cohort","Model","n","Events","HR","lo","hi","P"
+"GSE39582","Unadjusted, per SD",556,187,0.981,0.845,1.139,0.8
+"GSE39582","Adjusted for age, sex, stage, per SD",551,186,0.998,0.86,1.157,0.975
+"GSE39582","High vs low (median split)",556,187,0.941,0.706,1.253,0.677
+"GSE17536","Unadjusted, per SD",177,73,0.868,0.685,1.098,0.238
+"GSE17536","Adjusted for age, sex, stage, per SD",177,73,0.71,0.548,0.921,0.00975
+"GSE17536","High vs low (median split)",177,73,0.767,0.483,1.219,0.262

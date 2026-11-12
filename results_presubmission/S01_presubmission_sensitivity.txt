@@ -1,0 +1,97 @@
+
+===== A. tissue-source-site sensitivity =====
+normal samples per TSS:
+
+A6 AA AF AG AH AZ 
+ 8 14  2  4  1  4 
+restricted to TSS with normals: tumours 312  normals 33 
+Wilcoxon P = 0 ; AUC(normal > tumour) = 0.999 
+  Estimate Std. Error    t value   Pr(>|t|) 
+   -4.0398     0.1967   -20.5408     0.0000 
+   tss n_normal n_tumour median_diff
+A6  A6        8       43   -3.798987
+AA  AA       14      158   -3.690895
+AF  AF        2       15   -3.960766
+AG  AG        4       73   -4.243951
+AZ  AZ        4       17   -4.219332
+plates of normal samples:
+
+1653 1660 1672 1723 1736 1774 1830 1839 A32Z 
+   2    2    1    5    2    3    1    4   13 
+
+===== B. C-index comparators =====
+age10+sex+stage_grp+site: n=459 events=77; C base 0.7584; +GLP2R 0.7640; LRT P=0.0736
+age10+sex+stage_grp+site+msi: n=451 events=77; C base 0.7625; +GLP2R 0.7670; LRT P=0.1809
+
+===== C. Hartung-Knapp =====
+DL HR 0.856 (0.705-1.039); tau2 0.0188; HK 0.559-1.310; HK P=0.256
+
+===== D. MSI-stratified heterogeneity =====
+[1] "cell_type" "MSS_rho"   "MSS_p"     "MSS_n"     "MSIH_rho"  "MSIH_p"    "MSIH_n"   
+                 cell_type          z           p        fdr
+1 Activated dendritic cell  2.7201133 0.006525956 0.01062998
+2  Immature dendritic cell -0.3847003 0.700459472 0.70045947
+3               Macrophage  2.6388836 0.008317953 0.01062998
+4     Activated CD8 T cell  3.0512852 0.002278640 0.01062998
+5        Regulatory T cell  2.6174744 0.008858313 0.01062998
+6      Natural killer cell  2.8529914 0.004330979 0.01062998
+
+===== E. leave-GLP2R-out eigengene and hub table =====
+module turquoise genes: 1747 
+eigengene with GLP2R: rho=0.302 (P=6.7e-14); partial rho=0.252 (P=1.4e-09, n=561)
+eigengene without GLP2R: rho=0.301 (P=7.3e-14); partial rho=0.251 (P=1.6e-09, n=561)
+GLP2R kME rank: 1516 of 1747 
+
+===== F. MLH1 promoter-restricted control =====
+MLH1-annotated probes: 47 
+            id chrom chromStart
+107 cg02103401  chr3   37033372
+197 cg24607398  chr3   37033624
+158 cg10990993  chr3   37033631
+168 cg04726821  chr3   37033790
+287 cg11291081  chr3   37033893
+29  cg05670953  chr3   37033902
+62  cg18320188  chr3   37033979
+326 cg04841293  chr3   37034027
+178 cg05845319  chr3   37034065
+277 cg21109167  chr3   37034083
+219 cg03901257  chr3   37034141
+85  cg02279071  chr3   37034153
+95  cg14751544  chr3   37034165
+24  cg16764580  chr3   37034345
+370 cg17641046  chr3   37034472
+11  cg07101782  chr3   37034494
+146 cg03497419  chr3   37034653
+345 cg27586588  chr3   37034660
+233 cg16433211  chr3   37034692
+105 cg10769891  chr3   37034729
+280 cg19132762  chr3   37034738
+322 cg23658326  chr3   37034786
+270 cg11600697  chr3   37034813
+41  cg21490561  chr3   37034824
+34  cg00893636  chr3   37034839
+9   cg03192963  chr3   37034908
+211 cg06791151  chr3   37034955
+278 cg07064226  chr3   37034996
+252 cg06108510  chr3   37035062
+325 cg24985459  chr3   37035089
+221 cg12790037  chr3   37035116
+237 cg25202636  chr3   37035157
+23  cg17621259  chr3   37035167
+22  cg14671526  chr3   37035199
+54  cg05906740  chr3   37035204
+286 cg27331401  chr3   37035206
+156 cg25837710  chr3   37035219
+227 cg12851504  chr3   37035221
+106 cg06590608  chr3   37035227
+75  cg11224603  chr3   37035281
+223 cg19208331  chr3   37035344
+194 cg14598950  chr3   37035354
+108 cg13846866  chr3   37035398
+150 cg25212762  chr3   37055413
+169 cg11363877  chr3   37082314
+101 cg03405026  chr3   37082379
+317 cg16863190  chr3   37092192
+promoter-window probes: 36 
+MLH1 all annotated (47 probes): rho=-0.433 P=2.5e-18
+MLH1 promoter window (36 probes): rho=-0.429 P=5.2e-18

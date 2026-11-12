@@ -1,0 +1,8 @@
+﻿Cohort,Variable,Contrast,n_case,n_reference,Median_case,Median_reference,AUC,P_Wilcoxon,FDR,Stratum,n_stratum,P_stratum,Beta_adjusted,P_adjusted,Adjustment covariates / definition
+TCGA,CIMP cluster (TCGA 2012),CIMP-high vs other clusters,29,178,4.734,5.644,0.1588,3.914e-09,2.74e-08,MSS/MSI-L only,182,2.494e-05,-0.6222,0.0001322,Beta_adjusted: MSI and site. CIMP = methylation cluster of the TCGA 2012 analysis
+GSE39582,CIMP status,+ vs -,91,405,3.207,3.267,0.4485,0.1245,0.2801,pMMR only,380,0.2653,-0.03499,0.2895,"Beta_adjusted: MMR status, tumour location, sex and age. CIMP = clinical annotation of GSE39582 (definition differs from the TCGA clusters)"
+GSE39582,BRAF mutation,M vs WT,51,461,3.227,3.261,0.4859,0.742,0.8657,pMMR only,392,0.691,0.0243,0.5691,"Beta_adjusted: MMR status, tumour location, sex and age."
+GSE39582,MMR status,dMMR vs pMMR,75,444,3.219,3.262,0.4493,0.1601,0.2801,,,,,,
+GSE39582,KRAS mutation,M vs WT,217,328,3.244,3.279,0.5039,0.8775,0.8775,pMMR only,426,0.9597,0.0106,0.6249,"Beta_adjusted: MMR status, tumour location, sex and age."
+GSE39582,TP53 mutation,M vs WT,190,161,3.276,3.259,0.5239,0.4406,0.6168,pMMR only,310,0.6297,0.002431,0.9254,"Beta_adjusted: MMR status, tumour location, sex and age."
+GSE39582,CIN status,+ vs -,354,110,3.272,3.201,0.5624,0.04795,0.1678,pMMR only,347,0.1621,0.02003,0.4859,"Beta_adjusted: MMR status, tumour location, sex and age."

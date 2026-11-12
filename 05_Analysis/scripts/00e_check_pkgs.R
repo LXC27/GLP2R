@@ -1,0 +1,7 @@
+LIB <- file.path(Sys.getenv("GLP2R_RB", "W:/Re_build"), "_work", "Rlib"); .libPaths(c(LIB, .libPaths()))
+cat("msigdbr version:", as.character(packageVersion("msigdbr")), "\n")
+r <- tryCatch(msigdbr::msigdbr(species = "Homo sapiens", collection = "H"), error = function(e) { cat("ERR:", conditionMessage(e), "\n"); NULL })
+if (!is.null(r)) { cat("Hallmark rows:", nrow(r), " sets:", length(unique(r$gs_name)), "\n") }
+cat("msigdbdf installed:", requireNamespace("msigdbdf", quietly = TRUE), "\n")
+cat("GSVA version:", as.character(packageVersion("GSVA")), "  fgsea:", as.character(packageVersion("fgsea")), "  limma:", as.character(packageVersion("limma")), "\n")
+cat("apeglm:", requireNamespace("apeglm", quietly = TRUE), " ashr:", requireNamespace("ashr", quietly = TRUE), " broom:", requireNamespace("broom", quietly = TRUE), " rms:", requireNamespace("rms", quietly = TRUE), " ppcor:", requireNamespace("ppcor", quietly = TRUE), " ggridges:", requireNamespace("ggridges", quietly = TRUE), " cowplot:", requireNamespace("cowplot", quietly = TRUE), " ComplexHeatmap:", requireNamespace("ComplexHeatmap", quietly = TRUE), " ggpubr:", requireNamespace("ggpubr", quietly = TRUE), " scales:", requireNamespace("scales", quietly = TRUE), " forestplot:", requireNamespace("forestplot", quietly = TRUE), " qvalue:", requireNamespace("qvalue", quietly = TRUE), " DiagrammeR:", requireNamespace("DiagrammeR", quietly = TRUE), "\n")

@@ -1,0 +1,17 @@
+# large or rebuildable inputs (see 05_Analysis/data_manifest.csv)
+05_Analysis/data_cache/*
+!05_Analysis/data_cache/README.md
+!05_Analysis/data_cache/Charoentong2017.gmt
+!05_Analysis/data_cache/MCPcounter_genes.txt
+!05_Analysis/data_cache/MCPcounter_probesets.txt
+!05_Analysis/data_cache/hm450_probe_annotation_subset.csv
+!05_Analysis/data_cache/gdc_paired_manifest.csv
+!05_Analysis/data_cache/gdc_normal_tumour_file_listing.csv
+TCGA_CRC_combined.rds
+# local R library and run logs
+_work/
+05_Analysis/logs/
+logs/
+.Rhistory
+.RData
+.Rproj.user/
