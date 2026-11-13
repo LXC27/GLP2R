@@ -86,4 +86,4 @@ Code: MIT License (`LICENSE`). Results, tables and figures: CC BY 4.0 (`LICENSE-
 
 ## Contact
 
-Haiquan Cao, Department of Critical Care Medicine, Beijing Anzhen Nanchong Hospital of Capital Medical University & Nanchong Central Hospital, Nanchong, China. E-mail: caohaiquan1978@163.com
+Xiangchen Lu, Department of Critical Care Medicine, Chengdu Xinhua Hospital Affiliated to North Sichuan Medical College, Chengdu 610066, China. E-mail: luxc27@live.hk
