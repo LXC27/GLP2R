@@ -9,7 +9,7 @@
 ## 0. 当前状态
 
 - 作者名单已按题名页填入 `README.md` 与 `CITATION.cff`（**6 位作者，两位通讯作者 Tianyi Tao 与 Haiquan Cao**，含单位与 ORCID），无需再改占位符。
-- 唯一待填占位符是 **`ZENODO_DOI_PLACEHOLDER`**（在 `README.md` 与 `CITATION.cff` 中）——按第 4 步拿到 DOI 后回填。
+- Zenodo 归档 DOI 已回填：**`10.5281/zenodo.24321800`**（概念 DOI `10.5281/zenodo.24321799`）；`README.md` 与 `CITATION.cff` 中不再有占位符。
 - 仓库地址已填入 `https://github.com/LXC27/GLP2R`。
 
 ---
@@ -27,13 +27,13 @@ Get-ChildItem -Recurse -File | Measure-Object -Property Length -Sum |
 Get-ChildItem -Recurse -File -Include *.rds,*.RData,*.rda,*.gz,*.zip,*.tsv,*.bam |
   Select-Object FullName
 
-# 3) 剩余占位符（应只有 ZENODO_DOI_PLACEHOLDER）
+# 3) 确认没有残留占位符（应无输出）
 Select-String -Path README.md,RUNNING.md,CITATION.cff -Pattern 'PLACEHOLDER'
 ```
 
 ---
 
-## 2. 初始化 git 并提交
+## 2. 初始化 git 并提交（已完成，留作流程记录）
 
 ```powershell
 cd "<本仓库目录>"
@@ -53,9 +53,9 @@ git ls-files | Select-String -Pattern '\.(rds|RData|rda|gz|zip|tsv)$'   # 应无
 
 ---
 
-## 3. 推送到 GitHub
+## 3. 推送到 GitHub（已完成）
 
-仓库 `LXC27/GLP2R` 已存在且为空（无任何 commit）。在本地添加远程并推送：
+仓库 `LXC27/GLP2R` 已是 Public，`main` 为单一初始提交（133 个文件），远程 `origin` 已配置，日常只需 `git push`。首次配置时的命令：
 
 ```powershell
 git remote add origin https://github.com/LXC27/GLP2R.git
@@ -88,11 +88,11 @@ git -c http.sslBackend=openssl push -u origin main
 
 ---
 
-## 4. 连接 Zenodo 并发布 Release 以获得 DOI
+## 4. 连接 Zenodo 并发布 Release 以获得 DOI（已完成）
 
 1. 打开 https://zenodo.org ，用 GitHub 账号登录。
 2. Settings → GitHub → Connect → 在 "GitHub repositories" 列表**打开** `LXC27/GLP2R` 的开关。
-3. 回 GitHub 仓库 → Releases → Draft a new release → tag `v2.0.0` → 标题 `v2.0.0 — initial release` → Publish。
+3. 回 GitHub 仓库 → Releases → Draft a new release → 打 tag → Publish。（本次实际使用的 tag 为 `v1.0.0`，Zenodo 归档文件即 `GLP2R-1.0.0.zip`；下一次发布请用 `v2.0.1`，与 `CITATION.cff` 的 2.0.0 对齐。）
 4. 回 Zenodo "My uploads" 找到自动生成的记录，状态变为 Published 后复制**版本 DOI**（形如 `10.5281/zenodo.12345678`）。
 
 Release 描述可填：
@@ -105,27 +105,24 @@ Code: MIT. Derived results/tables: CC BY 4.0. Data cache and R library are not i
 
 ---
 
-## 5. 回填 DOI
+## 5. 回填 DOI（已完成）
 
-拿到版本 DOI 后，替换 `README.md` 与 `CITATION.cff` 里的 `ZENODO_DOI_PLACEHOLDER`，然后打 `v2.0.1` tag 并发布 Release（这样 Zenodo 归档的快照内部也带正确 DOI；Concept DOI 不变）：
+版本 DOI `10.5281/zenodo.24321800`（概念 DOI `10.5281/zenodo.24321799`）已写入 `README.md`（顶部徽章 + 文末引用块）与 `CITATION.cff`（`doi:` 字段），由 `_submission_prep/GitHub/_work/fill_doi.py` 完成：
 
 ```powershell
-$doi = "10.5281/zenodo.12345678"   # ← 换成你的版本 DOI
-(Get-Content README.md -Raw) -replace 'ZENODO_DOI_PLACEHOLDER', $doi | Set-Content README.md -Encoding UTF8
-(Get-Content CITATION.cff -Raw) -replace 'ZENODO_DOI_PLACEHOLDER', $doi | Set-Content CITATION.cff -Encoding UTF8
-
-git add README.md CITATION.cff
-git commit -m "Add Zenodo DOI"
-git push
-git tag v2.0.1
-git push origin v2.0.1
+python fill_doi.py --doi 10.5281/zenodo.24321800
 ```
+
+Zenodo 已归档的快照（tag `v1.0.0`）内部仍带占位符，属正常：提交本次回填后打 `v2.0.1` tag 并发布 Release，即可让归档快照自含正确 DOI（Concept DOI 不变）。
 
 同时把同一个 GitHub URL + DOI 填入稿件正文 "Data and code availability" 段。
 
 ---
 
 ## 6. 最终验证清单
+
+> 已核验：133 个文件 / 5.93 MB、旧投稿痕迹为零、`https://doi.org/10.5281/zenodo.24321800` 可解析、归档 zip 内容与本仓库一致（除 DOI 占位符）。
+
 
 - [ ] 仓库为 Public，文件数约 133，总大小约 6 MB；无 `data_cache/`、`_work/`、`.rds`、`.gz`、`.tsv`。
 - [ ] `README.md` 渲染正常，6 位作者与两位通讯作者正确，DOI 徽章指向 `https://doi.org/<DOI>`。

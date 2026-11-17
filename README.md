@@ -1,6 +1,6 @@
 # Reduced GLP2R expression in colorectal cancer: a confounder-adjusted multi-cohort analysis — reproducibility package
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI_PLACEHOLDER.svg)](https://doi.org/ZENODO_DOI_PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24321800.svg)](https://doi.org/10.5281/zenodo.24321800)
 
 - **Repository:** https://github.com/LXC27/GLP2R
 - **Version:** 2.0.0 (2026-11-17)
@@ -234,7 +234,7 @@ This section is deliberately explicit. The package was assembled from the author
 
 If you use this code or these results, please cite the manuscript and this archive:
 
-> Lu X, Sun X, Li J, Yang X, Tao T, Cao H. *Reduced GLP2R expression in colorectal cancer: a confounder-adjusted multi-cohort analysis of its prognostic, immune and epigenetic correlates*. Code and results archive: https://github.com/LXC27/GLP2R (DOI: https://doi.org/ZENODO_DOI_PLACEHOLDER).
+> Lu X, Sun X, Li J, Yang X, Tao T, Cao H. *Reduced GLP2R expression in colorectal cancer: a confounder-adjusted multi-cohort analysis of its prognostic, immune and epigenetic correlates*. Code and results archive: https://github.com/LXC27/GLP2R (DOI: https://doi.org/10.5281/zenodo.24321800).
 
 The machine-readable citation is in `CITATION.cff`.
 

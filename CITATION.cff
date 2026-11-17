@@ -43,7 +43,7 @@ date-released: "2026-11-17"
 license: MIT
 repository-code: "https://github.com/LXC27/GLP2R"
 # Replace with the version DOI minted by Zenodo, e.g. 10.5281/zenodo.12345678
-doi: "ZENODO_DOI_PLACEHOLDER"
+doi: "10.5281/zenodo.24321800"
 keywords:
   - GLP2R
   - colorectal cancer
