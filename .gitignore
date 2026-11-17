@@ -1,0 +1,26 @@
+# ---- data cache and R package library (distributed separately, never commit) ----
+data_cache/
+_work/
+Rlib/
+Supplementary/
+
+# ---- intermediate R objects ----
+*.rds
+*.RData
+*.rda
+*.Rhistory
+.Rproj.user/
+*.Rproj
+
+# ---- downloaded / large flat files ----
+*.gz
+*.zip
+*.tsv
+*.bam
+*.bai
+
+# ---- logs and temporary output ----
+logs/
+~$*.docx
+~$*.xlsx
+*.tmp

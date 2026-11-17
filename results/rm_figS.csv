@@ -1,0 +1,4 @@
+"key","value","description"
+"top100_hub_median_rho_tumour",0.245,"Median Spearman rho between GLP2R and the top-100 turquoise kME hub genes (excl. GLP2R), 591 tumours"
+"top100_hub_median_rho_normal",0.548,"same, normal mucosa"
+"top100_hub_n_normal",33,"normals used"

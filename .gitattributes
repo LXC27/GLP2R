@@ -1,0 +1,7 @@
+# Keep line endings stable across platforms so that text files (scripts, CSVs,
+# documentation) check out byte-for-byte as committed. Binary files are
+# auto-detected by git and are not converted.
+* text=auto eol=lf
+*.xlsx binary
+*.png binary
+*.pdf binary

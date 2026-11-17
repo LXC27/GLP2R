@@ -1,0 +1,626 @@
+"sample","patient","condition","sample_type","site","sex","age_y","stage_grp","msi","msi_source","mantis","msisensor","tmb","purity_absolute","immune_subtype","os_time","os_event","os_gdc_time","os_gdc_event","cdr_PFI","cdr_PFI_time"
+"TCGA-AF-3913-01A-02R-1119-07","TCGA-AF-3913","Tumor","Primary Tumor","READ","male",60,"III","MSS/MSI-L","TCGA-2012 call",,,,0.76,,316,1,316,1,1,316
+"TCGA-EI-6513-01A-21R-1736-07","TCGA-EI-6513","Tumor","Primary Tumor","READ","male",59,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3553,0.48,4.633333333,0.84,"Wound Healing (Immune C1)",497,0,497,0,0,497
+"TCGA-EI-6506-01A-11R-1736-07","TCGA-EI-6506","Tumor","Primary Tumor","READ","female",78,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3332,0.05,4.1,0.45,"Wound Healing (Immune C1)",625,0,625,0,0,625
+"TCGA-AG-3598-01A-01R-0826-07","TCGA-AG-3598","Tumor","Primary Tumor","READ","male",69,"II","MSS/MSI-L","TCGA-2012 call",0.3443,0,0.733333333,0.87,"Wound Healing (Immune C1)",1522,0,1522,0,0,1522
+"TCGA-AG-A01N-01A-01R-A00A-07","TCGA-AG-A01N","Tumor","Primary Tumor","READ","female",68,,"MSS/MSI-L","TCGA-2012 call",0.2832,0.75,3.433333333,0.59,"Wound Healing (Immune C1)",943,0,,0,0,943
+"TCGA-AF-3400-01A-01R-0821-07","TCGA-AF-3400","Tumor","Primary Tumor","READ","male",54,"II","MSS/MSI-L","TCGA-2012 call",0.3156,0.93,1.2,0.23,"Lymphocyte Depleted (Immune C4)",1049,0,1049,0,0,1049
+"TCGA-AG-3611-01A-01R-0826-07","TCGA-AG-3611","Tumor","Primary Tumor","READ","male",72,,"MSS/MSI-L","TCGA-2012 call",,,,0.87,,424,0,,0,0,424
+"TCGA-AG-3580-01A-01R-0821-07","TCGA-AG-3580","Tumor","Primary Tumor","READ","male",67,"I","MSS/MSI-L","TCGA-2012 call",0.3094,0.04,0.5,0.72,"Wound Healing (Immune C1)",244,0,244,0,0,244
+"TCGA-AG-A023-01A-01R-A00A-07","TCGA-AG-A023","Tumor","Primary Tumor","READ","female",62,"IV","MSS/MSI-L","TCGA-2012 call",,,,0.55,,1581,1,1581,1,1,822
+"TCGA-AG-3602-01A-02R-0826-07","TCGA-AG-3602","Tumor","Primary Tumor","READ","female",66,"III","MSS/MSI-L","TCGA-2012 call",0.341,0,0.5,0.64,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AG-A015-01A-01R-A002-07","TCGA-AG-A015","Tumor","Primary Tumor","READ","female",64,,"MSS/MSI-L","TCGA-2012 call",0.5815,14.94,3.033333333,0.87,"Wound Healing (Immune C1)",1096,0,,0,1,518
+"TCGA-BM-6198-01A-11R-1736-07","TCGA-BM-6198","Tumor","Primary Tumor","READ","male",73,,,,,,,,,646,0,,0,0,646
+"TCGA-AF-2690-01A-02R-1736-07","TCGA-AF-2690","Tumor","Primary Tumor","READ","female",76,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3412,0.03,2.366666667,0.37,"IFN-gamma Dominant (Immune C2)",524,1,524,1,0,524
+"TCGA-AG-3591-01A-01R-1736-07","TCGA-AG-3591","Tumor","Primary Tumor","READ","female",66,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3455,0.09,2.4,0.84,"Wound Healing (Immune C1)",1035,0,1035,0,0,1035
+"TCGA-AG-3587-01A-01R-0821-07","TCGA-AG-3587","Tumor","Primary Tumor","READ","male",65,,"MSS/MSI-L","TCGA-2012 call",,0.23,,0.79,"IFN-gamma Dominant (Immune C2)",1400,0,,0,1,1216
+"TCGA-AG-3581-01A-01R-0821-07","TCGA-AG-3581","Tumor","Primary Tumor","READ","male",63,"I","MSS/MSI-L","TCGA-2012 call",0.3144,0,0.533333333,0.65,"Wound Healing (Immune C1)",215,0,215,0,0,215
+"TCGA-AG-A02X-01A-01R-A00A-07","TCGA-AG-A02X","Tumor","Primary Tumor","READ","male",77,"I","MSS/MSI-L","TCGA-2012 call",0.2853,1.74,4.133333333,0.87,"Wound Healing (Immune C1)",1247,0,1247,0,0,1247
+"TCGA-G5-6572-01A-11R-1830-07","TCGA-G5-6572","Tumor","Primary Tumor","READ","male",56,,,,,,,0.75,,1432,1,1432,1,0,1432
+"TCGA-AG-4001-01A-02R-1119-07","TCGA-AG-4001","Tumor","Primary Tumor","READ","female",74,"II","MSS/MSI-L","TCGA-2012 call",0.2809,5.69,3.366666667,0.48,"Wound Healing (Immune C1)",1096,0,1096,0,0,1096
+"TCGA-AG-A00H-01A-01R-A00A-07","TCGA-AG-A00H","Tumor","Primary Tumor","READ","male",75,,"MSS/MSI-L","TCGA-2012 call",,,,0.45,,790,0,,0,1,790
+"TCGA-DC-6160-01A-11R-1660-07","TCGA-DC-6160","Tumor","Primary Tumor","READ","male",68,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.321,0.17,2.7,0.67,"Wound Healing (Immune C1)",1339,0,1339,0,0,1339
+"TCGA-DY-A1DE-01A-11R-A155-07","TCGA-DY-A1DE","Tumor","Primary Tumor","READ","female",56,,,,,,0,0.75,"IFN-gamma Dominant (Immune C2)",3932,0,,0,1,3316
+"TCGA-EI-6510-01A-11R-1736-07","TCGA-EI-6510","Tumor","Primary Tumor","READ","female",77,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3574,0.05,3.4,0.77,"Wound Healing (Immune C1)",556,0,556,0,0,556
+"TCGA-EF-5830-01A-01R-1660-07","TCGA-EF-5830","Tumor","Primary Tumor","READ","male",54,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3447,0.63,2.233333333,0.84,"Wound Healing (Immune C1)",106,0,106,0,0,106
+"TCGA-AG-A032-01A-01R-A00A-07","TCGA-AG-A032","Tumor","Primary Tumor","READ","male",68,"III","MSS/MSI-L","TCGA-2012 call",0.2539,0.57,2.533333333,0.69,"Wound Healing (Immune C1)",1157,0,1157,0,1,792
+"TCGA-AG-3894-01A-01R-1119-07","TCGA-AG-3894","Tumor","Primary Tumor","READ","male",65,"II","MSS/MSI-L","TCGA-2012 call",0.2675,0.09,3.066666667,0.81,"Wound Healing (Immune C1)",426,0,426,0,0,426
+"TCGA-EI-6917-01A-11R-1928-07","TCGA-EI-6917","Tumor","Primary Tumor","READ","male",33,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3457,0.03,165.5666667,0.52,"IFN-gamma Dominant (Immune C2)",531,0,531,0,0,531
+"TCGA-AG-3574-01A-01R-0821-07","TCGA-AG-3574","Tumor","Primary Tumor","READ","female",89,"II","MSS/MSI-L","TCGA-2012 call",0.3356,0,0.366666667,0.86,"Wound Healing (Immune C1)",1096,1,91,1,1,1096
+"TCGA-AF-3911-01A-01R-1736-07","TCGA-AF-3911","Tumor","Primary Tumor","READ","male",48,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3559,0.15,2.733333333,0.72,"Wound Healing (Immune C1)",1148,0,1148,0,1,695
+"TCGA-DC-6156-01A-11R-1660-07","TCGA-DC-6156","Tumor","Primary Tumor","READ","male",62,"IV",,,,,0,0.44,"TGF-beta Dominant (Immune C6)",943,0,943,0,1,30
+"TCGA-AG-3599-01A-02R-0826-07","TCGA-AG-3599","Tumor","Primary Tumor","READ","male",70,"I","MSS/MSI-L","TCGA-2012 call",0.3477,0.39,0.733333333,0.83,"Wound Healing (Immune C1)",366,0,366,0,0,366
+"TCGA-EI-7002-01A-11R-1928-07","TCGA-EI-7002","Tumor","Primary Tumor","READ","male",58,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3622,0.54,5.2,0.8,"Wound Healing (Immune C1)",364,0,364,0,0,364
+"TCGA-F5-6810-01A-11R-1830-07","TCGA-F5-6810","Tumor","Primary Tumor","READ",,,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3292,0.13,3.733333333,0.65,"Wound Healing (Immune C1)",,,,,,
+"TCGA-EI-6885-01A-11R-1928-07","TCGA-EI-6885","Tumor","Primary Tumor","READ","female",57,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3401,0.11,3.166666667,0.59,"Wound Healing (Immune C1)",415,0,,0,1,295
+"TCGA-EI-6881-01A-11R-A32Z-07","TCGA-EI-6881","Tumor","Primary Tumor","READ","male",60,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3444,0.21,3.4,0.61,"Wound Healing (Immune C1)",499,0,499,0,0,499
+"TCGA-AF-2689-11A-01R-A32Z-07","TCGA-AF-2689","Normal","Solid Tissue Normal","READ","female",41,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3486,1.28,1.733333333,0.62,,1201,1,1201,1,1,301
+"TCGA-DC-6154-01A-31R-1928-07","TCGA-DC-6154","Tumor","Primary Tumor","READ","female",57,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.331,1.57,3.133333333,0.86,"Wound Healing (Immune C1)",365,0,365,0,0,365
+"TCGA-EI-6883-01A-31R-1928-07","TCGA-EI-6883","Tumor","Primary Tumor","READ","male",63,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3433,0.27,3.033333333,0.8,"Wound Healing (Immune C1)",350,0,350,0,0,350
+"TCGA-AG-3583-01A-01R-0821-07","TCGA-AG-3583","Tumor","Primary Tumor","READ","male",66,"IV","MSS/MSI-L","TCGA-2012 call",0.3724,0.12,0.733333333,0.64,"Wound Healing (Immune C1)",610,1,610,1,1,610
+"TCGA-AF-6136-01A-11R-1830-07","TCGA-AF-6136","Tumor","Primary Tumor","READ","female",72,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3329,0.16,3.666666667,0.58,"Wound Healing (Immune C1)",741,0,741,0,1,199
+"TCGA-EI-6509-01A-11R-1736-07","TCGA-EI-6509","Tumor","Primary Tumor","READ","male",53,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3555,0.5,1.733333333,0.83,"Wound Healing (Immune C1)",517,0,,0,1,90
+"TCGA-AG-4021-01A-01R-1736-07","TCGA-AG-4021","Tumor","Primary Tumor","READ","female",84,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.346,0.21,4.5,0.81,"Wound Healing (Immune C1)",121,1,121,1,1,0
+"TCGA-AG-3731-11A-01R-1736-07","TCGA-AG-3731","Normal","Solid Tissue Normal","READ","male",65,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3516,0.01,4.533333333,0.3,"Wound Healing (Immune C1)",1126,0,1126,0,0,1126
+"TCGA-F5-6863-01A-11R-1928-07","TCGA-F5-6863","Tumor","Primary Tumor","READ","female",71,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3566,0.08,2.3,0.75,"Wound Healing (Immune C1)",361,1,361,1,1,191
+"TCGA-DY-A1DG-01A-11R-A32Y-07","TCGA-DY-A1DG","Tumor","Primary Tumor","READ","male",75,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.363,0.8,5.1,0.92,"Wound Healing (Immune C1)",1566,1,1566,1,1,592
+"TCGA-DY-A1DD-01A-21R-A155-07","TCGA-DY-A1DD","Tumor","Primary Tumor","READ","female",77,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3611,1,3.9,0.88,"Wound Healing (Immune C1)",1741,1,1741,1,0,1741
+"TCGA-F5-6464-01A-11R-1736-07","TCGA-F5-6464","Tumor","Primary Tumor","READ","female",77,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3424,0.04,2.8,0.47,"Wound Healing (Immune C1)",303,1,303,1,0,303
+"TCGA-AF-2691-11A-01R-A32Z-07","TCGA-AF-2691","Normal","Solid Tissue Normal","READ","female",48,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3267,1.16,2.233333333,0.43,"Wound Healing (Immune C1)",1309,0,1309,0,0,1309
+"TCGA-AG-A01L-01A-01R-A002-07","TCGA-AG-A01L","Tumor","Primary Tumor","READ","male",58,"III","MSS/MSI-L","TCGA-2012 call",0.2594,0.09,2.033333333,0.78,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AG-4007-01A-01R-1119-07","TCGA-AG-4007","Tumor","Primary Tumor","READ","male",86,"IV","MSS/MSI-L","TCGA-2012 call",0.3394,6.54,,0.69,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AG-4022-01A-01R-1736-07","TCGA-AG-4022","Tumor","Primary Tumor","READ","female",59,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3436,0.25,2.8,0.63,"Wound Healing (Immune C1)",1400,0,1400,0,0,1400
+"TCGA-DY-A0XA-01A-11R-A155-07","TCGA-DY-A0XA","Tumor","Primary Tumor","READ","female",57,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3458,0.29,4.366666667,0.7,"Wound Healing (Immune C1)",3846,0,3846,0,0,3846
+"TCGA-AG-3732-11A-01R-1660-07","TCGA-AG-3732","Normal","Solid Tissue Normal","READ","female",78,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3066,0.34,2.6,0.69,"Inflammatory (Immune C3)",1003,0,1003,0,0,1003
+"TCGA-CI-6622-01A-11R-1830-07","TCGA-CI-6622","Tumor","Primary Tumor","READ","male",74,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3223,0,3.133333333,0.67,"Wound Healing (Immune C1)",1362,0,1362,0,0,1362
+"TCGA-DC-4749-01A-01R-1736-07","TCGA-DC-4749","Tumor","Primary Tumor","READ","male",57,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3406,0.31,2.3,0.74,"Wound Healing (Immune C1)",762,0,762,0,0,762
+"TCGA-AG-3883-01A-02R-0905-07","TCGA-AG-3883","Tumor","Primary Tumor","READ","male",69,"I","MSS/MSI-L","TCGA-2012 call",0.2889,0.29,3.866666667,0.56,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AG-3608-01A-01R-0826-07","TCGA-AG-3608","Tumor","Primary Tumor","READ","female",79,"II",,,,0.3,,0.74,"Wound Healing (Immune C1)",485,0,485,0,0,485
+"TCGA-F5-6465-01A-11R-1736-07","TCGA-F5-6465","Tumor","Primary Tumor","READ","female",64,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3415,0,3.3,0.55,"Wound Healing (Immune C1)",1506,0,1506,0,0,1506
+"TCGA-AF-2687-01A-02R-1736-07","TCGA-AF-2687","Tumor","Primary Tumor","READ","male",57,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3529,0.08,3.266666667,0.44,"Wound Healing (Immune C1)",1427,0,,0,1,1267
+"TCGA-AG-3885-01A-01R-0905-07","TCGA-AG-3885","Tumor","Primary Tumor","READ","female",71,"III","MSS/MSI-L","TCGA-2012 call",0.3285,0.66,2.966666667,0.76,"Inflammatory (Immune C3)",546,0,546,0,0,546
+"TCGA-AG-3742-11A-01R-1660-07","TCGA-AG-3742","Normal","Solid Tissue Normal","READ","female",85,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3199,0.24,4.566666667,0.79,"Wound Healing (Immune C1)",30,0,30,0,0,30
+"TCGA-AG-3727-01A-01R-0905-07","TCGA-AG-3727","Tumor","Primary Tumor","READ","female",78,"III","MSS/MSI-L","TCGA-2012 call",0.2939,1.55,2.833333333,0.89,"Wound Healing (Immune C1)",30,0,30,0,0,30
+"TCGA-AG-3892-01A-01R-1119-07","TCGA-AG-3892","Tumor","Primary Tumor","READ","female",57,"I","MSS/MSI-L","TCGA-2012 call",0.5876,0.08,83.36666667,0.4,"IFN-gamma Dominant (Immune C2)",396,0,396,0,0,396
+"TCGA-G5-6235-01A-11R-1736-07","TCGA-G5-6235","Tumor","Primary Tumor","READ","male",72,"III",,,,,,0.33,,1696,0,1696,0,1,1042
+"TCGA-G5-6233-01A-11R-1736-07","TCGA-G5-6233","Tumor","Primary Tumor","READ","male",74,,,,,,,0.57,,556,1,556,1,1,92
+"TCGA-AF-2693-01A-02R-1736-07","TCGA-AF-2693","Tumor","Primary Tumor","READ","male",75,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.339,0.02,2.766666667,0.63,"Wound Healing (Immune C1)",1155,0,1155,0,0,1155
+"TCGA-G5-6641-01A-11R-A32Z-07","TCGA-G5-6641","Tumor","Primary Tumor","READ","male",67,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3305,0.02,3.133333333,0.77,"Wound Healing (Immune C1)",804,0,804,0,0,804
+"TCGA-DC-6682-01A-11R-1830-07","TCGA-DC-6682","Tumor","Primary Tumor","READ","male",57,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3334,0.09,3.933333333,0.48,"Wound Healing (Immune C1)",762,0,762,0,0,762
+"TCGA-AG-4008-01A-01R-1119-07","TCGA-AG-4008","Tumor","Primary Tumor","READ","male",63,"II","MSS/MSI-L","TCGA-2012 call",0.2652,0.37,2.8,0.5,"Wound Healing (Immune C1)",518,0,518,0,0,518
+"TCGA-AG-A026-01A-01R-A00A-07","TCGA-AG-A026","Tumor","Primary Tumor","READ","male",66,"II","MSS/MSI-L","TCGA-2012 call",0.3214,1.92,6.766666667,0.9,"Wound Healing (Immune C1)",59,1,59,1,1,59
+"TCGA-AF-A56K-01A-32R-A39D-07","TCGA-AF-A56K","Tumor","Primary Tumor","READ","male",56,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3197,0.29,2.933333333,0.55,"Wound Healing (Immune C1)",2635,0,,0,1,1217
+"TCGA-AG-3609-01A-02R-0826-07","TCGA-AG-3609","Tumor","Primary Tumor","READ","female",65,"III","MSS/MSI-L","TCGA-2012 call",,0.03,,0.67,"IFN-gamma Dominant (Immune C2)",608,0,608,0,0,608
+"TCGA-AG-3878-01A-02R-0905-07","TCGA-AG-3878","Tumor","Primary Tumor","READ","male",64,"I","MSS/MSI-L","TCGA-2012 call",0.2791,0.06,3.233333333,0.42,"Inflammatory (Immune C3)",30,0,30,0,0,30
+"TCGA-F5-6861-01A-11R-1928-07","TCGA-F5-6861","Tumor","Primary Tumor","READ","female",60,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3338,0,3.2,0.55,"Wound Healing (Immune C1)",1160,0,1160,0,0,1160
+"TCGA-AG-3605-01A-01R-0826-07","TCGA-AG-3605","Tumor","Primary Tumor","READ","female",85,"IV","MSS/MSI-L","TCGA-2012 call",0.33,0.24,0.3,0.71,"Wound Healing (Immune C1)",30,0,30,0,0,30
+"TCGA-AF-2692-01A-01R-0821-07","TCGA-AF-2692","Tumor","Primary Tumor","READ","female",54,,"MSS/MSI-L","TCGA-2012 call",0.3259,1.32,0.733333333,0.74,"Wound Healing (Immune C1)",412,0,,0,1,327
+"TCGA-AG-A014-01A-02R-A002-07","TCGA-AG-A014","Tumor","Primary Tumor","READ","male",86,"I","MSS/MSI-L","TCGA-2012 call",,,,0.78,,485,0,485,0,0,485
+"TCGA-AG-3728-01A-01R-0905-07","TCGA-AG-3728","Tumor","Primary Tumor","READ","male",73,"III","MSS/MSI-L","TCGA-2012 call",0.3413,0.43,,0.55,"Inflammatory (Immune C3)",912,0,912,0,0,912
+"TCGA-AG-3881-01A-01R-0905-07","TCGA-AG-3881","Tumor","Primary Tumor","READ","female",83,"II","MSS/MSI-L","TCGA-2012 call",0.2842,0.79,3.7,0.67,"Wound Healing (Immune C1)",579,0,579,0,0,579
+"TCGA-AF-5654-01A-01R-1660-07","TCGA-AF-5654","Tumor","Primary Tumor","READ","female",73,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3231,0.19,8.033333333,0.79,"Wound Healing (Immune C1)",512,1,512,1,0,512
+"TCGA-DC-5337-01A-01R-1660-07","TCGA-DC-5337","Tumor","Primary Tumor","READ","male",68,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3191,0.15,3.133333333,0.74,"Wound Healing (Immune C1)",792,0,792,0,0,792
+"TCGA-AG-3578-01A-01R-0821-07","TCGA-AG-3578","Tumor","Primary Tumor","READ","female",76,"II","MSS/MSI-L","TCGA-2012 call",,0,,0.77,"Wound Healing (Immune C1)",974,0,974,0,0,974
+"TCGA-AG-3592-01A-02R-1736-07","TCGA-AG-3592","Tumor","Primary Tumor","READ","male",68,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3478,0.37,8.366666667,0.7,"Wound Healing (Immune C1)",1035,0,1035,0,0,1035
+"TCGA-CI-6621-01A-11R-1830-07","TCGA-CI-6621","Tumor","Primary Tumor","READ","male",63,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3389,0.03,3.633333333,0.46,"Wound Healing (Immune C1)",419,0,419,0,0,419
+"TCGA-AG-A02G-01A-01R-A00A-07","TCGA-AG-A02G","Tumor","Primary Tumor","READ","male",66,"IV","MSS/MSI-L","TCGA-2012 call",0.2752,1.51,,0.8,"Inflammatory (Immune C3)",1185,1,1185,1,1,578
+"TCGA-AG-3593-01A-01R-0821-07","TCGA-AG-3593","Tumor","Primary Tumor","READ","female",72,"II","MSS/MSI-L","TCGA-2012 call",,0,,0.73,"Wound Healing (Immune C1)",1035,0,1035,0,0,1035
+"TCGA-AH-6549-01A-11R-1830-07","TCGA-AH-6549","Tumor","Primary Tumor","READ","male",66,,,,,,,,"Wound Healing (Immune C1)",532,0,532,0,0,532
+"TCGA-AH-6897-01A-11R-1928-07","TCGA-AH-6897","Tumor","Primary Tumor","READ","male",48,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.344,0.22,3.333333333,0.83,"Wound Healing (Immune C1)",804,0,804,0,0,804
+"TCGA-AH-6903-01A-11R-1928-07","TCGA-AH-6903","Tumor","Primary Tumor","READ","male",46,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3374,0.01,2.3,0.64,"Wound Healing (Immune C1)",592,0,592,0,0,592
+"TCGA-DY-A1DC-01A-31R-A155-07","TCGA-DY-A1DC","Tumor","Primary Tumor","READ","female",72,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3327,0.18,4.666666667,0.71,"Wound Healing (Immune C1)",1258,1,1258,1,1,630
+"TCGA-EI-6512-01A-11R-1736-07","TCGA-EI-6512","Tumor","Primary Tumor","READ","female",64,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3602,0.71,3.833333333,0.63,"Wound Healing (Immune C1)",538,0,538,0,0,538
+"TCGA-AG-3726-01A-02R-0905-07","TCGA-AG-3726","Tumor","Primary Tumor","READ","female",63,"I","MSS/MSI-L","TCGA-2012 call",0.293,0.97,4.766666667,0.76,"Inflammatory (Immune C3)",243,0,243,0,0,243
+"TCGA-CI-6624-01C-11R-1830-07","TCGA-CI-6624","Tumor","Primary Tumor","READ","female",53,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3402,0.02,8.5,0.34,"Wound Healing (Immune C1)",1466,0,1466,0,0,1466
+"TCGA-CI-6619-01B-11R-1830-07","TCGA-CI-6619","Tumor","Primary Tumor","READ","male",41,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3407,0.03,2.4,0.31,"Wound Healing (Immune C1)",184,0,184,0,0,184
+"TCGA-AG-A011-01A-01R-A002-07","TCGA-AG-A011","Tumor","Primary Tumor","READ","male",80,"II","MSS/MSI-L","TCGA-2012 call",0.2669,0,3.366666667,0.55,"Wound Healing (Immune C1)",1126,0,1126,0,0,1126
+"TCGA-F5-6864-01A-11R-1928-07","TCGA-F5-6864","Tumor","Primary Tumor","READ","female",74,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3486,0.19,4.533333333,0.48,"Wound Healing (Immune C1)",379,0,379,0,0,379
+"TCGA-DC-6681-01A-11R-A32Z-07","TCGA-DC-6681","Tumor","Primary Tumor","READ","female",70,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3433,0,2.2,0.57,"Wound Healing (Immune C1)",790,0,790,0,0,790
+"TCGA-AG-A01W-01A-21R-A083-07","TCGA-AG-A01W","Tumor","Primary Tumor","READ","female",67,"II","MSS/MSI-L","TCGA-2012 call",0.2895,0.37,4.3,0.61,"IFN-gamma Dominant (Immune C2)",0,0,0,0,0,0
+"TCGA-F5-6813-01A-11R-1830-07","TCGA-F5-6813","Tumor","Primary Tumor","READ","male",70,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3558,0.45,4.133333333,0.67,"Wound Healing (Immune C1)",598,1,598,1,1,65
+"TCGA-AG-3896-01A-01R-1119-07","TCGA-AG-3896","Tumor","Primary Tumor","READ","female",84,"I","MSS/MSI-L","TCGA-2012 call",0.2715,0.68,3.666666667,0.64,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AG-A016-01A-01R-A002-07","TCGA-AG-A016","Tumor","Primary Tumor","READ","male",55,"IV","MSS/MSI-L","TCGA-2012 call",0.282,28.84,2.5,0.87,"Wound Healing (Immune C1)",276,0,276,0,0,276
+"TCGA-AG-A01Y-01A-41R-A083-07","TCGA-AG-A01Y","Tumor","Primary Tumor","READ","female",49,"II","MSS/MSI-L","TCGA-2012 call",0.3053,0.97,2.566666667,0.79,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-CI-6623-01B-11R-1830-07","TCGA-CI-6623","Tumor","Primary Tumor","READ","male",44,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3617,0.1,2.333333333,0.54,"Wound Healing (Immune C1)",1443,0,1443,0,0,1443
+"TCGA-CL-4957-01A-01R-1736-07","TCGA-CL-4957","Tumor","Primary Tumor","READ","female",79,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3362,0.05,2.633333333,0.61,"Wound Healing (Immune C1)",425,0,,1,0,425
+"TCGA-AG-3893-01A-01R-1119-07","TCGA-AG-3893","Tumor","Primary Tumor","READ","male",74,"III","MSS/MSI-L","TCGA-2012 call",0.2849,0.56,3.9,0.72,"Wound Healing (Immune C1)",1065,0,1065,0,0,1065
+"TCGA-AG-3584-01A-01R-0821-07","TCGA-AG-3584","Tumor","Primary Tumor","READ","male",60,"IV","MSS/MSI-L","TCGA-2012 call",0.3271,0.35,0.666666667,0.77,"Wound Healing (Immune C1)",730,1,730,1,1,730
+"TCGA-EI-7004-01A-11R-1928-07","TCGA-EI-7004","Tumor","Primary Tumor","READ","female",37,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.345,0.06,2.8,0.49,"Wound Healing (Immune C1)",257,0,257,0,0,257
+"TCGA-AG-A00Y-01A-02R-A002-07","TCGA-AG-A00Y","Tumor","Primary Tumor","READ","male",68,,"MSS/MSI-L","TCGA-2012 call",0.2637,0.85,10.96666667,0.7,"IFN-gamma Dominant (Immune C2)",700,0,,0,1,123
+"TCGA-EI-6511-01A-11R-1736-07","TCGA-EI-6511","Tumor","Primary Tumor","READ","male",52,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3537,0.15,2.566666667,0.65,"IFN-gamma Dominant (Immune C2)",482,0,482,0,0,482
+"TCGA-EI-6508-01A-11R-1736-07","TCGA-EI-6508","Tumor","Primary Tumor","READ","female",48,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3488,0.24,3.433333333,0.79,"Wound Healing (Immune C1)",636,0,636,0,0,636
+"TCGA-F5-6812-01A-11R-1830-07","TCGA-F5-6812","Tumor","Primary Tumor","READ","male",67,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3556,0.01,2.9,0.56,"Wound Healing (Immune C1)",1110,0,1110,0,0,1110
+"TCGA-AG-3725-11A-01R-1736-07","TCGA-AG-3725","Normal","Solid Tissue Normal","READ","female",89,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3507,1.05,3.033333333,0.81,"Wound Healing (Immune C1)",638,0,0,0,0,638
+"TCGA-DC-6155-01A-11R-1660-07","TCGA-DC-6155","Tumor","Primary Tumor","READ","female",31,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3493,0.16,1.766666667,0.63,"Wound Healing (Immune C1)",425,0,425,0,0,425
+"TCGA-F5-6702-01A-11R-1830-07","TCGA-F5-6702","Tumor","Primary Tumor","READ","male",71,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.328,0.02,2.1,0.33,"Wound Healing (Immune C1)",452,0,869,1,1,368
+"TCGA-CL-5918-01A-11R-1660-07","TCGA-CL-5918","Tumor","Primary Tumor","READ","female",89,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3446,0.61,3.9,0.77,"Wound Healing (Immune C1)",218,0,0,0,0,218
+"TCGA-F5-6811-01A-11R-1830-07","TCGA-F5-6811","Tumor","Primary Tumor","READ","female",72,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3549,0.35,2.833333333,0.6,"IFN-gamma Dominant (Immune C2)",979,0,979,0,0,979
+"TCGA-AG-3890-01A-01R-1119-07","TCGA-AG-3890","Tumor","Primary Tumor","READ","male",62,"I","MSS/MSI-L","TCGA-2012 call",0.2774,0.59,3.133333333,0.71,"Wound Healing (Immune C1)",518,0,518,0,0,518
+"TCGA-AG-A002-01A-01R-A002-07","TCGA-AG-A002","Tumor","Primary Tumor","READ","male",35,"I","MSS/MSI-L","TCGA-2012 call",0.3178,0.46,382.6333333,0.82,"Wound Healing (Immune C1)",638,0,638,0,0,638
+"TCGA-CI-6620-01A-11R-1830-07","TCGA-CI-6620","Tumor","Primary Tumor","READ","female",41,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3445,0.07,1.766666667,0.45,"Wound Healing (Immune C1)",1009,0,,0,1,90
+"TCGA-AG-A036-01A-12R-A083-07","TCGA-AG-A036","Tumor","Primary Tumor","READ","male",71,"III","MSS/MSI-L","TCGA-2012 call",,,,,"Wound Healing (Immune C1)",3562,0,3562,0,0,3562
+"TCGA-AG-A020-01A-21R-A083-07","TCGA-AG-A020","Tumor","Primary Tumor","READ","female",57,"III","MSS/MSI-L","TCGA-2012 call",0.3111,0.39,2.733333333,0.87,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-DC-6683-01A-11R-1830-07","TCGA-DC-6683","Tumor","Primary Tumor","READ","male",43,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3459,0.19,2.4,0.61,"Wound Healing (Immune C1)",762,0,762,0,0,762
+"TCGA-AH-6547-01A-11R-1830-07","TCGA-AH-6547","Tumor","Primary Tumor","READ","female",79,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3524,0,0.4,0.36,"Inflammatory (Immune C3)",76,1,76,1,0,76
+"TCGA-AG-3612-01A-01R-0826-07","TCGA-AG-3612","Tumor","Primary Tumor","READ","female",55,"III","MSS/MSI-L","TCGA-2012 call",,,,0.72,,608,0,608,0,0,608
+"TCGA-AG-3600-01A-01R-0826-07","TCGA-AG-3600","Tumor","Primary Tumor","READ","male",62,"III","MSS/MSI-L","TCGA-2012 call",,0.1,,0.76,"Wound Healing (Immune C1)",184,0,184,0,0,184
+"TCGA-AG-3601-01A-01R-0826-07","TCGA-AG-3601","Tumor","Primary Tumor","READ","male",68,"III","MSS/MSI-L","TCGA-2012 call",,1.17,,0.76,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AG-3902-01A-01R-A32Z-07","TCGA-AG-3902","Tumor","Primary Tumor","READ","male",61,"II","MSS/MSI-L","TCGA-2012 call",0.2705,0.24,3.966666667,0.53,"IFN-gamma Dominant (Immune C2)",974,0,974,0,0,974
+"TCGA-AG-3582-01A-01R-0821-07","TCGA-AG-3582","Tumor","Primary Tumor","READ","male",75,"IV","MSS/MSI-L","TCGA-2012 call",,0.04,,0.76,"Wound Healing (Immune C1)",1096,1,1096,1,1,1096
+"TCGA-F5-6571-01A-12R-1830-07","TCGA-F5-6571","Tumor","Primary Tumor","READ","female",62,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3388,0.35,2.766666667,0.76,"Inflammatory (Immune C3)",1288,0,1288,0,1,122
+"TCGA-AG-3901-01A-01R-1119-07","TCGA-AG-3901","Tumor","Primary Tumor","READ","female",67,"III","MSS/MSI-L","TCGA-2012 call",0.2547,0.03,1.9,0.44,"Wound Healing (Immune C1)",761,0,761,0,0,761
+"TCGA-AG-4015-01A-01R-1119-07","TCGA-AG-4015","Tumor","Primary Tumor","READ","female",85,"II","MSS/MSI-L","TCGA-2012 call",0.2981,0.7,2.933333333,0.8,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-DC-6158-01A-11R-1660-07","TCGA-DC-6158","Tumor","Primary Tumor","READ","male",70,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.339,0.34,2.766666667,0.54,"IFN-gamma Dominant (Immune C2)",334,1,334,1,0,334
+"TCGA-DT-5265-01A-21R-1830-07","TCGA-DT-5265","Tumor","Primary Tumor","READ","male",51,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3389,0.13,2.766666667,0.66,"IFN-gamma Dominant (Immune C2)",384,0,384,0,0,384
+"TCGA-EF-5831-01A-01R-1660-07","TCGA-EF-5831","Tumor","Primary Tumor","READ","male",72,"II",,,,0.5,0,0.63,"Wound Healing (Immune C1)",127,0,127,0,0,127
+"TCGA-EI-6514-01A-11R-1736-07","TCGA-EI-6514","Tumor","Primary Tumor","READ","female",59,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3382,0.38,3.5,0.72,"Wound Healing (Immune C1)",496,0,496,0,0,496
+"TCGA-AG-3898-01A-01R-1119-07","TCGA-AG-3898","Tumor","Primary Tumor","READ","male",61,"II","MSS/MSI-L","TCGA-2012 call",0.2685,0.24,3.333333333,0.53,"Wound Healing (Immune C1)",1461,0,1461,0,0,1461
+"TCGA-AG-3575-01A-01R-0821-07","TCGA-AG-3575","Tumor","Primary Tumor","READ","male",51,"II","MSS/MSI-L","TCGA-2012 call",0.3841,0,0.566666667,0.74,"IFN-gamma Dominant (Immune C2)",365,0,365,0,0,365
+"TCGA-AF-6672-01A-11R-1830-07","TCGA-AF-6672","Tumor","Primary Tumor","READ","male",43,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3345,0.02,2.566666667,0.71,"Wound Healing (Immune C1)",748,0,,0,1,279
+"TCGA-AF-4110-01A-02R-1736-07","TCGA-AF-4110","Tumor","Primary Tumor","READ","male",77,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3522,0.06,2.866666667,0.42,"Wound Healing (Immune C1)",912,0,912,0,0,912
+"TCGA-DC-6157-01A-11R-1660-07","TCGA-DC-6157","Tumor","Primary Tumor","READ","male",48,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.331,0.33,2.833333333,0.5,"Wound Healing (Immune C1)",1581,0,1581,0,0,1581
+"TCGA-DC-4745-01A-01R-A32Z-07","TCGA-DC-4745","Tumor","Primary Tumor","READ","female",49,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3391,0.66,2.233333333,0.81,"Wound Healing (Immune C1)",639,0,639,0,0,639
+"TCGA-AG-3999-01A-01R-1119-07","TCGA-AG-3999","Tumor","Primary Tumor","READ","female",61,,"MSS/MSI-L","TCGA-2012 call",0.3504,8.8,,0.72,"Wound Healing (Immune C1)",853,0,,0,1,791
+"TCGA-AG-3909-01A-01R-1119-07","TCGA-AG-3909","Tumor","Primary Tumor","READ","female",69,"III","MSS/MSI-L","TCGA-2012 call",0.2612,0.72,2.4,0.56,"Wound Healing (Immune C1)",608,0,608,0,0,608
+"TCGA-CL-5917-01A-11R-1660-07","TCGA-CL-5917","Tumor","Primary Tumor","READ","female",71,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.359,1.58,2.333333333,0.79,"Wound Healing (Immune C1)",2376,0,2376,0,0,2376
+"TCGA-AF-A56N-01A-12R-A39D-07","TCGA-AF-A56N","Tumor","Primary Tumor","READ","female",47,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3275,0.54,4.3,0.8,"Wound Healing (Immune C1)",360,0,360,0,0,360
+"TCGA-AG-A02N-01A-11R-A083-07","TCGA-AG-A02N","Tumor","Primary Tumor","READ","male",67,"II","MSI-H","TCGA-2012 call",1.2673,39.69,36.3,0.83,"Wound Healing (Immune C1)",1885,0,1885,0,0,1885
+"TCGA-AH-6544-01A-11R-1830-07","TCGA-AH-6544","Tumor","Primary Tumor","READ","male",60,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3308,0.07,4.366666667,0.46,"Wound Healing (Immune C1)",1173,0,1173,0,0,1173
+"TCGA-AG-3887-01A-01R-1119-07","TCGA-AG-3887","Tumor","Primary Tumor","READ","male",68,"II","MSS/MSI-L","TCGA-2012 call",0.2587,0.34,2.233333333,0.83,"Wound Healing (Immune C1)",1124,0,1124,0,1,1064
+"TCGA-AG-4005-01A-01R-1119-07","TCGA-AG-4005","Tumor","Primary Tumor","READ","male",64,"IV","MSS/MSI-L","TCGA-2012 call",0.3323,7.84,,0.67,"Wound Healing (Immune C1)",427,0,427,0,0,427
+"TCGA-F5-6814-01A-31R-1928-07","TCGA-F5-6814","Tumor","Primary Tumor","READ","male",57,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3409,0.34,316.7666667,0.72,"IFN-gamma Dominant (Immune C2)",1131,0,1131,0,0,1131
+"TCGA-AG-A025-01A-01R-A00A-07","TCGA-AG-A025","Tumor","Primary Tumor","READ","female",62,"I","MSS/MSI-L","TCGA-2012 call",0.2593,0.66,,0.77,"Wound Healing (Immune C1)",1520,0,1520,0,0,1520
+"TCGA-AG-3882-01A-01R-0905-07","TCGA-AG-3882","Tumor","Primary Tumor","READ","female",66,"I","MSS/MSI-L","TCGA-2012 call",0.2963,0.5,2.6,0.62,"Inflammatory (Immune C3)",608,0,608,0,0,608
+"TCGA-AG-A01J-01A-01R-A00A-07","TCGA-AG-A01J","Tumor","Primary Tumor","READ","female",59,"II","MSS/MSI-L","TCGA-2012 call",0.2531,0.36,3.033333333,0.5,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-DY-A1DF-01A-11R-A155-07","TCGA-DY-A1DF","Tumor","Primary Tumor","READ","female",73,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3545,0.72,4.166666667,0.92,"Wound Healing (Immune C1)",734,1,734,1,0,734
+"TCGA-EI-6884-01A-11R-1928-07","TCGA-EI-6884","Tumor","Primary Tumor","READ","male",71,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3424,0,3.533333333,0.42,"Wound Healing (Immune C1)",328,0,328,0,0,328
+"TCGA-AG-3586-01A-02R-0821-07","TCGA-AG-3586","Tumor","Primary Tumor","READ","female",72,"III","MSS/MSI-L","TCGA-2012 call",,0.15,,0.75,"IFN-gamma Dominant (Immune C2)",31,0,31,0,0,31
+"TCGA-DY-A1H8-01A-21R-A155-07","TCGA-DY-A1H8","Tumor","Primary Tumor","READ","female",77,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3551,0.39,2.966666667,0.89,"Wound Healing (Immune C1)",992,1,992,1,0,992
+"TCGA-AH-6643-11A-01R-1830-07","TCGA-AH-6643","Normal","Solid Tissue Normal","READ","male",50,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3494,0.57,3.333333333,0.75,"Wound Healing (Immune C1)",1314,1,1314,1,1,1026
+"TCGA-DC-5869-01A-01R-1660-07","TCGA-DC-5869","Tumor","Primary Tumor","READ","female",62,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3785,0.42,2.466666667,0.55,"Wound Healing (Immune C1)",943,0,943,0,0,943
+"TCGA-EI-6507-01A-11R-1736-07","TCGA-EI-6507","Tumor","Primary Tumor","READ","male",60,"II","MSI-H","MANTIS (PanCanAtlas)",0.6711,15.99,31.03333333,0.56,"Wound Healing (Immune C1)",607,0,607,0,0,607
+"TCGA-AF-6655-01A-11R-1830-07","TCGA-AF-6655","Tumor","Primary Tumor","READ","male",66,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3465,0.16,2.166666667,0.62,"IFN-gamma Dominant (Immune C2)",609,0,609,0,0,609
+"TCGA-AF-A56L-01A-31R-A39D-07","TCGA-AF-A56L","Tumor","Primary Tumor","READ","female",48,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3287,0.22,3.866666667,0.5,"Wound Healing (Immune C1)",2007,0,2007,0,0,2007
+"TCGA-AG-3594-01A-02R-0821-07","TCGA-AG-3594","Tumor","Primary Tumor","READ","male",77,"II","MSS/MSI-L","TCGA-2012 call",0.3367,0.05,0.4,0.63,"IFN-gamma Dominant (Immune C2)",61,1,61,1,1,61
+"TCGA-EI-6882-01A-11R-1928-07","TCGA-EI-6882","Tumor","Primary Tumor","READ","male",59,"II","MSI-H","MANTIS (PanCanAtlas)",0.9044,25.05,40.73333333,0.79,"Wound Healing (Immune C1)",262,0,262,0,0,262
+"TCGA-AH-6644-01A-21R-1830-07","TCGA-AH-6644","Tumor","Primary Tumor","READ","male",73,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3448,0.17,3.5,0.57,"Wound Healing (Immune C1)",838,0,838,0,0,838
+"TCGA-AG-A008-01A-01R-A002-07","TCGA-AG-A008","Tumor","Primary Tumor","READ","female",50,"I","MSS/MSI-L","TCGA-2012 call",0.6176,27.36,2.2,0.89,"Wound Healing (Immune C1)",424,0,424,0,0,424
+"TCGA-AG-A00C-01A-01R-A002-07","TCGA-AG-A00C","Tumor","Primary Tumor","READ","female",49,"III","MSS/MSI-L","TCGA-2012 call",0.5582,0.91,4.3,0.78,"Wound Healing (Immune C1)",183,0,183,0,0,183
+"TCGA-AA-3561-01A-01R-0821-07","TCGA-AA-3561","Tumor","Primary Tumor","COAD","male",72,"II","MSS/MSI-L","TCGA-2012 call",0.3413,0.27,0.566666667,0.82,"Wound Healing (Immune C1)",424,0,424,0,0,424
+"TCGA-AZ-4616-01A-21R-1839-07","TCGA-AZ-4616","Tumor","Primary Tumor","COAD","female",82,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3171,0.79,3.033333333,0.51,"IFN-gamma Dominant (Immune C2)",156,1,156,1,1,156
+"TCGA-AA-3712-11A-01R-1723-07","TCGA-AA-3712","Normal","Solid Tissue Normal","COAD","male",65,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3407,0.53,3.833333333,0.65,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AY-A71X-01A-12R-A37K-07","TCGA-AY-A71X","Tumor","Primary Tumor","COAD","female",54,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3062,0.22,3,0.94,"Wound Healing (Immune C1)",588,0,588,0,0,588
+"TCGA-AA-3861-01A-01R-1022-07","TCGA-AA-3861","Tumor","Primary Tumor","COAD","male",72,"II","MSS/MSI-L","TCGA-2012 call",,,,,"IFN-gamma Dominant (Immune C2)",914,0,914,0,0,914
+"TCGA-AZ-6603-11A-02R-1839-07","TCGA-AZ-6603","Normal","Solid Tissue Normal","COAD","female",77,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3686,0.35,2.566666667,0.63,"Wound Healing (Immune C1)",899,1,899,1,0,899
+"TCGA-AA-A01C-01A-01R-A00A-07","TCGA-AA-A01C","Tumor","Primary Tumor","COAD","male",75,"III","MSS/MSI-L","TCGA-2012 call",0.2539,0.1,2.833333333,0.6,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-G4-6627-01A-11R-1774-07","TCGA-G4-6627","Tumor","Primary Tumor","COAD","male",84,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3582,0.02,3.233333333,0.23,"IFN-gamma Dominant (Immune C2)",2275,0,2175,0,1,1003
+"TCGA-AZ-6599-01A-11R-1774-07","TCGA-AZ-6599","Tumor","Primary Tumor","COAD","male",72,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3766,0.14,7.733333333,0.85,"Lymphocyte Depleted (Immune C4)",206,1,206,1,0,206
+"TCGA-F4-6809-01A-11R-1839-07","TCGA-F4-6809","Tumor","Primary Tumor","COAD","female",52,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3476,0.02,5.033333333,0.54,"Wound Healing (Immune C1)",403,1,403,1,1,403
+"TCGA-5M-AAT6-01A-11R-A41B-07","TCGA-5M-AAT6","Tumor","Primary Tumor","COAD","female",40,,"MSI-H","MANTIS (PanCanAtlas)",0.66,20.58,62.16666667,0.25,"IFN-gamma Dominant (Immune C2)",290,1,290,1,1,219
+"TCGA-AA-A01D-01A-01R-A00A-07","TCGA-AA-A01D","Tumor","Primary Tumor","COAD","female",47,,"MSS/MSI-L","TCGA-2012 call",0.2695,0.71,,0.4,"Wound Healing (Immune C1)",334,1,334,1,1,183
+"TCGA-A6-6653-01A-11R-1774-07","TCGA-A6-6653","Tumor","Primary Tumor","COAD","male",82,"I","MSI-H","MANTIS (PanCanAtlas)",1.0708,33.02,35.63333333,0.81,"Wound Healing (Immune C1)",742,0,742,0,0,742
+"TCGA-AA-3819-01A-01R-0905-07","TCGA-AA-3819","Tumor","Primary Tumor","COAD","female",41,"II","MSS/MSI-L","TCGA-2012 call",0.261,0.25,6.033333333,0.73,"Wound Healing (Immune C1)",761,0,761,0,0,761
+"TCGA-AZ-4684-01A-01R-1410-07","TCGA-AZ-4684","Tumor","Primary Tumor","COAD","male",49,"IV","MSS/MSI-L","TCGA-2012 call",0.3572,,0,0.47,"Wound Healing (Immune C1)",1977,0,1977,0,1,411
+"TCGA-D5-6534-01A-21R-1928-07","TCGA-D5-6534","Tumor","Primary Tumor","COAD","female",62,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3343,0.04,5.066666667,0.33,"TGF-beta Dominant (Immune C6)",1316,0,1316,0,0,1316
+"TCGA-DM-A1D8-01A-11R-A155-07","TCGA-DM-A1D8","Tumor","Primary Tumor","COAD","female",50,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3468,0.47,4.8,0.75,"Wound Healing (Immune C1)",383,1,383,1,0,383
+"TCGA-AA-3970-01A-01R-1022-07","TCGA-AA-3970","Tumor","Primary Tumor","COAD","male",64,"II","MSS/MSI-L","TCGA-2012 call",,,,,"IFN-gamma Dominant (Immune C2)",1096,0,1096,0,0,1096
+"TCGA-QG-A5YW-01A-11R-A28H-07","TCGA-QG-A5YW","Tumor","Primary Tumor","COAD","female",55,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.2723,0.47,4.933333333,0.61,"Wound Healing (Immune C1)",896,0,896,0,0,896
+"TCGA-AA-3837-01A-01R-0905-07","TCGA-AA-3837","Tumor","Primary Tumor","COAD","male",67,"II","MSS/MSI-L","TCGA-2012 call",0.2784,0.82,3.933333333,0.53,"Wound Healing (Immune C1)",1186,0,1186,0,0,1186
+"TCGA-G4-6626-01A-11R-1774-07","TCGA-G4-6626","Tumor","Primary Tumor","COAD","male",89,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.349,0.39,3.966666667,0.6,"Wound Healing (Immune C1)",1422,1,1,1,0,1422
+"TCGA-A6-3810-01A-01R-A278-07","TCGA-A6-3810","Tumor","Primary Tumor","COAD","male",62,"II","MSS/MSI-L","TCGA-2012 call",0.3137,1.08,5.533333333,0.6,"Wound Healing (Immune C1)",1111,0,1111,0,0,1111
+"TCGA-AA-3854-01A-01R-0905-07","TCGA-AA-3854","Tumor","Primary Tumor","COAD","female",71,"I","MSS/MSI-L","TCGA-2012 call",0.2733,0.89,4.666666667,0.88,"Wound Healing (Immune C1)",1096,0,1096,0,0,1096
+"TCGA-CM-5868-01A-01R-1653-07","TCGA-CM-5868","Tumor","Primary Tumor","COAD","female",59,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3403,0.89,2.7,0.69,"Wound Healing (Immune C1)",518,0,518,0,0,518
+"TCGA-D5-6926-01A-11R-1928-07","TCGA-D5-6926","Tumor","Primary Tumor","COAD","male",65,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3496,0.18,3.366666667,0.5,"Wound Healing (Immune C1)",275,0,275,0,0,275
+"TCGA-AA-3688-01A-01R-0905-07","TCGA-AA-3688","Tumor","Primary Tumor","COAD","male",80,"IV","MSS/MSI-L","TCGA-2012 call",0.3017,1.27,2.133333333,0.73,"Wound Healing (Immune C1)",578,0,578,0,0,578
+"TCGA-AA-3543-01A-01R-0826-07","TCGA-AA-3543","Tumor","Primary Tumor","COAD","male",84,"I","MSI-H","TCGA-2012 call",,4.56,,0.7,"IFN-gamma Dominant (Immune C2)",30,0,30,0,0,30
+"TCGA-G4-6298-01A-11R-1723-07","TCGA-G4-6298","Tumor","Primary Tumor","COAD","male",89,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3334,0.31,5.266666667,0.6,"Wound Healing (Immune C1)",715,1,0,1,1,291
+"TCGA-AA-3516-11A-01R-A32Z-07","TCGA-AA-3516","Normal","Solid Tissue Normal","COAD","female",74,,,,,,,0.39,,396,1,396,1,1,396
+"TCGA-AA-3972-01A-01R-1022-07","TCGA-AA-3972","Tumor","Primary Tumor","COAD","male",72,,"MSS/MSI-L","TCGA-2012 call",,,,0.77,,1551,0,,0,1,1216
+"TCGA-AZ-6608-01A-11R-1839-07","TCGA-AZ-6608","Tumor","Primary Tumor","COAD","female",55,,,,,,,0.89,,59,1,59,1,0,59
+"TCGA-AA-3525-11A-01R-A32Z-07","TCGA-AA-3525","Normal","Solid Tissue Normal","COAD","male",89,"III",,,,11.72,,0.64,"Wound Healing (Immune C1)",245,0,1,0,0,245
+"TCGA-G4-6294-01A-11R-1774-07","TCGA-G4-6294","Tumor","Primary Tumor","COAD","male",75,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3774,1.01,5.033333333,0.81,"Wound Healing (Immune C1)",858,1,858,1,1,517
+"TCGA-G4-6625-01A-21R-1774-07","TCGA-G4-6625","Tumor","Primary Tumor","COAD","female",77,,,,,,,0.34,,2792,0,,0,1,2564
+"TCGA-AA-3506-01A-01R-1410-07","TCGA-AA-3506","Tumor","Primary Tumor","COAD","male",77,"I","MSS/MSI-L","TCGA-2012 call",0.3453,0.03,4.6,0.64,"Wound Healing (Immune C1)",1765,0,1765,0,0,1765
+"TCGA-AA-A00L-01A-01R-A002-07","TCGA-AA-A00L","Tumor","Primary Tumor","COAD","male",66,,"MSS/MSI-L","TCGA-2012 call",,0,,0.79,"Wound Healing (Immune C1)",1157,0,,0,0,1157
+"TCGA-A6-2677-01A-01R-A278-07","TCGA-A6-2677","Tumor","Primary Tumor","COAD","female",68,"III","MSS/MSI-L","TCGA-2012 call",0.319,0,7.766666667,0.88,"Wound Healing (Immune C1)",740,1,740,1,0,740
+"TCGA-G4-6321-01A-11R-1723-07","TCGA-G4-6321","Tumor","Primary Tumor","COAD","female",60,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3258,0.18,2.433333333,0.57,"Lymphocyte Depleted (Immune C4)",672,0,,0,0,672
+"TCGA-AZ-4681-01A-01R-1410-07","TCGA-AZ-4681","Tumor","Primary Tumor","COAD","female",79,,"MSS/MSI-L","TCGA-2012 call",0.3537,0.02,2.666666667,0.88,"Wound Healing (Immune C1)",3247,0,,0,0,3247
+"TCGA-AA-3950-01A-02R-1022-07","TCGA-AA-3950","Tumor","Primary Tumor","COAD","female",79,"II","MSI-H","TCGA-2012 call",0.75,25.38,4.233333333,0.39,"IFN-gamma Dominant (Immune C2)",730,0,730,0,0,730
+"TCGA-AA-3713-11A-01R-1723-07","TCGA-AA-3713","Normal","Solid Tissue Normal","COAD","male",68,"IV","MSI-H","MANTIS (PanCanAtlas)",0.8168,26.26,34,0.56,"Wound Healing (Immune C1)",579,0,579,0,0,579
+"TCGA-AA-3496-11A-01R-1839-07","TCGA-AA-3496","Normal","Solid Tissue Normal","COAD","female",83,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4517,0.4,4.9,0.73,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AA-3511-11A-01R-1839-07","TCGA-AA-3511","Normal","Solid Tissue Normal","COAD","male",64,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.391,0.06,4.033333333,0.52,"IFN-gamma Dominant (Immune C2)",212,0,,0,1,59
+"TCGA-AA-3862-01A-01R-1022-07","TCGA-AA-3862","Tumor","Primary Tumor","COAD","male",82,,"MSS/MSI-L","TCGA-2012 call",,,,,"IFN-gamma Dominant (Immune C2)",914,0,,0,0,914
+"TCGA-AZ-4313-01A-01R-1410-07","TCGA-AZ-4313","Tumor","Primary Tumor","COAD","female",51,"I","MSI-H","TCGA-2012 call",0.7225,,,0.52,"Wound Healing (Immune C1)",2310,0,,0,0,2310
+"TCGA-AA-3842-01A-01R-1022-07","TCGA-AA-3842","Tumor","Primary Tumor","COAD","male",51,,"MSS/MSI-L","TCGA-2012 call",0.3246,0.68,2.933333333,0.74,"Wound Healing (Immune C1)",1126,0,,0,1,396
+"TCGA-CM-4750-01A-01R-1410-07","TCGA-CM-4750","Tumor","Primary Tumor","COAD","female",34,"III","MSS/MSI-L","TCGA-2012 call",0.3583,0.18,2.766666667,0.67,"IFN-gamma Dominant (Immune C2)",244,0,244,0,0,244
+"TCGA-AA-A029-01A-01R-A00A-07","TCGA-AA-A029","Tumor","Primary Tumor","COAD","male",67,"II","MSS/MSI-L","TCGA-2012 call",0.2837,2.01,,0.88,"Wound Healing (Immune C1)",1581,0,1581,0,0,1581
+"TCGA-AA-3672-01A-01R-0905-07","TCGA-AA-3672","Tumor","Primary Tumor","COAD","female",89,"III","MSI-H","TCGA-2012 call",,,,0.69,,28,0,0,0,0,28
+"TCGA-DM-A28A-01A-21R-A32Y-07","TCGA-DM-A28A","Tumor","Primary Tumor","COAD","male",78,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3995,0.25,4.3,0.87,"IFN-gamma Dominant (Immune C2)",805,1,805,1,0,805
+"TCGA-3L-AA1B-01A-11R-A37K-07","TCGA-3L-AA1B","Tumor","Primary Tumor","COAD","female",61,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3057,0.05,4.033333333,0.39,"Wound Healing (Immune C1)",475,0,475,0,0,475
+"TCGA-DM-A0XF-01A-11R-A155-07","TCGA-DM-A0XF","Tumor","Primary Tumor","COAD","female",68,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3334,0.1,3.7,0.59,"Wound Healing (Immune C1)",1162,1,1162,1,0,1162
+"TCGA-AA-3552-01A-01R-0821-07","TCGA-AA-3552","Tumor","Primary Tumor","COAD","male",85,"III","MSS/MSI-L","TCGA-2012 call",,0.04,,0.52,"IFN-gamma Dominant (Immune C2)",396,1,396,1,1,122
+"TCGA-AA-3544-01A-01R-1873-07","TCGA-AA-3544","Tumor","Primary Tumor","COAD","male",68,"I","MSS/MSI-L","TCGA-2012 call",0.3291,0,0.633333333,0.73,"IFN-gamma Dominant (Immune C2)",426,0,426,0,0,426
+"TCGA-AA-3975-01A-01R-1022-07","TCGA-AA-3975","Tumor","Primary Tumor","COAD","male",80,"I","MSS/MSI-L","TCGA-2012 call",0.3404,0.21,4.9,0.79,"Wound Healing (Immune C1)",1036,0,1036,0,0,1036
+"TCGA-AD-6895-01A-11R-1928-07","TCGA-AD-6895","Tumor","Primary Tumor","COAD","male",84,,"MSI-H","MANTIS (PanCanAtlas)",0.8416,23.11,51.56666667,0.56,"IFN-gamma Dominant (Immune C2)",763,0,,0,0,763
+"TCGA-AA-3560-01A-01R-0821-07","TCGA-AA-3560","Tumor","Primary Tumor","COAD","female",72,,"MSS/MSI-L","TCGA-2012 call",0.3648,0.03,0.633333333,0.84,"Wound Healing (Immune C1)",608,0,,0,0,608
+"TCGA-AA-3529-01A-02R-0821-07","TCGA-AA-3529","Tumor","Primary Tumor","COAD","female",78,"III","MSS/MSI-L","TCGA-2012 call",0.4301,0.66,0.333333333,0.6,"Wound Healing (Immune C1)",0,1,0,1,1,0
+"TCGA-AA-3866-01A-01R-1022-07","TCGA-AA-3866","Tumor","Primary Tumor","COAD","female",78,"I","MSS/MSI-L","TCGA-2012 call",0.3267,0.43,3.4,0.5,"IFN-gamma Dominant (Immune C2)",518,0,518,0,0,518
+"TCGA-A6-6782-01A-11R-1839-07","TCGA-A6-6782","Tumor","Primary Tumor","COAD","male",82,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3922,0,4.133333333,0.65,"Wound Healing (Immune C1)",617,0,617,0,0,617
+"TCGA-AA-A022-01A-21R-A16W-07","TCGA-AA-A022","Tumor","Primary Tumor","COAD","female",88,"II","MSI-H","TCGA-2012 call",1.1662,43,49.33333333,0.71,"IFN-gamma Dominant (Immune C2)",0,0,0,0,0,0
+"TCGA-A6-6138-01A-11R-1774-07","TCGA-A6-6138","Tumor","Primary Tumor","COAD","male",61,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3495,0.22,3.333333333,0.62,"IFN-gamma Dominant (Immune C2)",685,0,685,0,0,685
+"TCGA-AA-3693-01A-01R-0905-07","TCGA-AA-3693","Tumor","Primary Tumor","COAD","female",77,"IV","MSS/MSI-L","TCGA-2012 call",0.2829,1.09,4.433333333,0.9,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AA-3844-01A-01R-1022-07","TCGA-AA-3844","Tumor","Primary Tumor","COAD","female",78,,"MSS/MSI-L","TCGA-2012 call",0.3264,0.87,3.8,0.83,"Wound Healing (Immune C1)",454,0,,0,1,365
+"TCGA-CK-4952-01A-01R-1723-07","TCGA-CK-4952","Tumor","Primary Tumor","COAD","female",48,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3926,0.29,4.766666667,0.85,"Wound Healing (Immune C1)",475,0,475,0,0,475
+"TCGA-AD-6890-01A-11R-1928-07","TCGA-AD-6890","Tumor","Primary Tumor","COAD","male",65,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3483,0.03,3.333333333,0.61,"Wound Healing (Immune C1)",746,0,746,0,0,746
+"TCGA-AA-3848-01A-01R-0905-07","TCGA-AA-3848","Tumor","Primary Tumor","COAD","female",82,"III","MSS/MSI-L","TCGA-2012 call",0.2571,0.66,4.433333333,0.86,"Wound Healing (Immune C1)",306,1,306,1,1,306
+"TCGA-AA-A00U-01A-01R-A002-07","TCGA-AA-A00U","Tumor","Primary Tumor","COAD","male",50,"III","MSS/MSI-L","TCGA-2012 call",,0.03,,0.76,"Wound Healing (Immune C1)",518,0,518,0,0,518
+"TCGA-AA-3549-01A-02R-0821-07","TCGA-AA-3549","Tumor","Primary Tumor","COAD","male",69,"I","MSS/MSI-L","TCGA-2012 call",0.2966,0,0.6,0.75,"Wound Healing (Immune C1)",639,0,639,0,0,639
+"TCGA-AD-6901-01A-11R-1928-07","TCGA-AD-6901","Tumor","Primary Tumor","COAD","male",78,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3533,0.18,7.466666667,0.57,"Wound Healing (Immune C1)",682,1,682,1,1,468
+"TCGA-AA-A00Q-01A-01R-A002-07","TCGA-AA-A00Q","Tumor","Primary Tumor","COAD","female",66,"III","MSS/MSI-L","TCGA-2012 call",,0,,0.57,"Wound Healing (Immune C1)",1278,0,1278,0,0,1278
+"TCGA-CM-4751-01A-02R-1839-07","TCGA-CM-4751","Tumor","Primary Tumor","COAD","male",62,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3606,0,3.033333333,0.5,"IFN-gamma Dominant (Immune C2)",822,0,822,0,0,822
+"TCGA-CM-6674-01A-11R-1839-07","TCGA-CM-6674","Tumor","Primary Tumor","COAD","male",39,"II","MSI-H","MANTIS (PanCanAtlas)",0.7398,21.08,28.13333333,0.5,"IFN-gamma Dominant (Immune C2)",394,0,394,0,0,394
+"TCGA-AA-3872-01A-01R-1022-07","TCGA-AA-3872","Tumor","Primary Tumor","COAD","male",45,"IV","MSS/MSI-L","TCGA-2012 call",0.3976,1.08,,0.59,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AA-3655-01A-02R-1723-07","TCGA-AA-3655","Tumor","Primary Tumor","COAD","male",68,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3473,0.2,2.566666667,0.87,"IFN-gamma Dominant (Immune C2)",1856,0,1856,0,0,1856
+"TCGA-A6-5665-01B-03R-2302-07","TCGA-A6-5665","Tumor","Primary Tumor","COAD","female",84,"II","MSI-H","MANTIS (PanCanAtlas)",1.1824,46.78,117.7666667,0.72,"Wound Healing (Immune C1)",671,0,671,0,1,529
+"TCGA-G4-6317-01A-11R-1723-07","TCGA-G4-6317","Tumor","Primary Tumor","COAD","female",51,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3455,0.89,2.9,0.76,"Wound Healing (Immune C1)",1095,0,1095,0,1,592
+"TCGA-AD-6899-01A-11R-1928-07","TCGA-AD-6899","Tumor","Primary Tumor","COAD","male",84,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.355,0.07,4.566666667,0.62,"Wound Healing (Immune C1)",176,1,176,1,0,176
+"TCGA-D5-6537-01A-11R-1723-07","TCGA-D5-6537","Tumor","Primary Tumor","COAD","male",64,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3503,0.37,3.4,0.8,"IFN-gamma Dominant (Immune C2)",146,1,146,1,1,123
+"TCGA-AA-3994-01A-01R-1113-07","TCGA-AA-3994","Tumor","Primary Tumor","COAD","male",69,"III","MSS/MSI-L","TCGA-2012 call",0.2838,0.99,5.9,0.76,"Wound Healing (Immune C1)",822,0,822,0,0,822
+"TCGA-AA-3555-01A-01R-0821-07","TCGA-AA-3555","Tumor","Primary Tumor","COAD","female",81,"II","MSS/MSI-L","TCGA-2012 call",,0.05,,0.74,"Lymphocyte Depleted (Immune C4)",911,0,911,0,1,91
+"TCGA-AA-3949-01A-01R-1022-07","TCGA-AA-3949","Tumor","Primary Tumor","COAD","female",87,"III","MSI-H","TCGA-2012 call",0.751,24.11,39,0.29,"IFN-gamma Dominant (Immune C2)",791,0,791,0,0,791
+"TCGA-A6-2672-01A-01R-0826-07","TCGA-A6-2672","Tumor","Primary Tumor","COAD","female",82,"III","MSI-H","TCGA-2012 call",0.9618,31.87,,0.59,"IFN-gamma Dominant (Immune C2)",1419,0,1419,0,0,1419
+"TCGA-AA-3542-01A-02R-1873-07","TCGA-AA-3542","Tumor","Primary Tumor","COAD","male",69,"III","MSS/MSI-L","TCGA-2012 call",,0,,0.87,"Wound Healing (Immune C1)",395,0,395,0,0,395
+"TCGA-AA-3715-01A-01R-0905-07","TCGA-AA-3715","Tumor","Primary Tumor","COAD","male",77,"II","MSI-H","TCGA-2012 call",1.092,44.26,70.83333333,0.48,"IFN-gamma Dominant (Immune C2)",579,1,579,1,1,153
+"TCGA-AA-3860-01A-02R-0905-07","TCGA-AA-3860","Tumor","Primary Tumor","COAD","female",53,"III","MSS/MSI-L","TCGA-2012 call",,,,0.79,,945,0,945,0,0,945
+"TCGA-AA-3814-01A-01R-0905-07","TCGA-AA-3814","Tumor","Primary Tumor","COAD","female",85,"II","MSS/MSI-L","TCGA-2012 call",0.2754,0.35,3.033333333,0.6,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AA-A024-01A-02R-A00A-07","TCGA-AA-A024","Tumor","Primary Tumor","COAD","male",81,,"MSS/MSI-L","TCGA-2012 call",0.2567,0.75,2.666666667,0.73,"Inflammatory (Immune C3)",1188,1,1188,1,0,1188
+"TCGA-A6-2682-01A-01R-1410-07","TCGA-A6-2682","Tumor","Primary Tumor","COAD","male",70,"II","MSS/MSI-L","TCGA-2012 call",0.3444,,,,"Wound Healing (Immune C1)",424,1,424,1,1,381
+"TCGA-G4-6314-01A-11R-1723-07","TCGA-G4-6314","Tumor","Primary Tumor","COAD","female",76,"IV",,,,,,0.51,,1093,0,1093,0,1,38
+"TCGA-AA-3524-01A-02R-0821-07","TCGA-AA-3524","Tumor","Primary Tumor","COAD","male",85,"II","MSS/MSI-L","TCGA-2012 call",0.3154,0.1,0.6,0.8,"Wound Healing (Immune C1)",1096,0,1096,0,0,1096
+"TCGA-AA-3662-01A-01R-1723-07","TCGA-AA-3662","Tumor","Primary Tumor","COAD","female",80,,,,,,,0.68,,184,0,,0,0,184
+"TCGA-DM-A285-01A-11R-A16W-07","TCGA-DM-A285","Tumor","Primary Tumor","COAD","female",71,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3761,0.13,5.766666667,0.71,"Wound Healing (Immune C1)",179,1,179,1,0,179
+"TCGA-AA-3562-01A-02R-0821-07","TCGA-AA-3562","Tumor","Primary Tumor","COAD","male",82,,"MSS/MSI-L","TCGA-2012 call",,,,0.58,,608,0,,0,0,608
+"TCGA-AA-3976-01A-01R-1022-07","TCGA-AA-3976","Tumor","Primary Tumor","COAD","male",70,"III","MSS/MSI-L","TCGA-2012 call",0.3308,0.3,2.8,0.68,"Wound Healing (Immune C1)",791,0,791,0,0,791
+"TCGA-AZ-6601-11A-01R-1774-07","TCGA-AZ-6601","Normal","Solid Tissue Normal","COAD","male",68,,,,,,,0.46,,3042,1,3042,1,1,2270
+"TCGA-AA-3870-01A-01R-1022-07","TCGA-AA-3870","Tumor","Primary Tumor","COAD","female",71,,"MSS/MSI-L","TCGA-2012 call",0.3807,0.6,,0.61,"Wound Healing (Immune C1)",912,0,,0,0,912
+"TCGA-AD-6548-01A-11R-1839-07","TCGA-AD-6548","Tumor","Primary Tumor","COAD","female",81,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4334,0.02,4.033333333,0.53,"Wound Healing (Immune C1)",650,0,650,0,0,650
+"TCGA-G4-6307-01A-11R-1723-07","TCGA-G4-6307","Tumor","Primary Tumor","COAD","female",37,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.316,0.41,2.433333333,0.7,"Wound Healing (Immune C1)",1674,0,1674,0,0,1674
+"TCGA-AA-A00Z-01A-01R-A002-07","TCGA-AA-A00Z","Tumor","Primary Tumor","COAD","male",70,,"MSS/MSI-L","TCGA-2012 call",0.3206,0,0.466666667,0.63,"Wound Healing (Immune C1)",669,0,,0,0,669
+"TCGA-AA-3811-01A-01R-1022-07","TCGA-AA-3811","Tumor","Primary Tumor","COAD","female",84,"III","MSI-H","TCGA-2012 call",1.1337,38.84,64.1,,"Wound Healing (Immune C1)",306,1,306,1,1,306
+"TCGA-AA-3697-11A-01R-1723-07","TCGA-AA-3697","Normal","Solid Tissue Normal","COAD","male",77,"II",,,,,,0.67,,2587,0,2587,0,0,2587
+"TCGA-G4-6586-01A-11R-1774-07","TCGA-G4-6586","Tumor","Primary Tumor","COAD","female",73,,"MSI-H","MANTIS (PanCanAtlas)",1.0607,33.57,37.03333333,0.66,"IFN-gamma Dominant (Immune C2)",1089,0,,0,0,1089
+"TCGA-A6-2680-01A-01R-1410-07","TCGA-A6-2680","Tumor","Primary Tumor","COAD","female",72,"II","MSS/MSI-L","TCGA-2012 call",0.3468,,,0.58,"Wound Healing (Immune C1)",1068,0,1068,0,0,1068
+"TCGA-A6-6781-01A-22R-1928-07","TCGA-A6-6781","Tumor","Primary Tumor","COAD","male",43,"III","MSI-H","MANTIS (PanCanAtlas)",0.771,25.58,64.2,0.5,"Wound Healing (Immune C1)",598,0,598,0,0,598
+"TCGA-AA-A02K-01A-03R-A32Y-07","TCGA-AA-A02K","Tumor","Primary Tumor","COAD","male",50,"IV","MSS/MSI-L","TCGA-2012 call",,,,,"IFN-gamma Dominant (Immune C2)",426,1,426,1,1,306
+"TCGA-CM-5341-01A-01R-1410-07","TCGA-CM-5341","Tumor","Primary Tumor","COAD","female",82,"III","MSS/MSI-L","TCGA-2012 call",0.3524,0,4.866666667,0.51,"IFN-gamma Dominant (Immune C2)",884,0,884,0,0,884
+"TCGA-F4-6703-01A-11R-1839-07","TCGA-F4-6703","Tumor","Primary Tumor","COAD","male",64,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4396,1,17.83333333,0.17,"Wound Healing (Immune C1)",1456,0,1456,0,0,1456
+"TCGA-AA-A03F-01A-11R-A16W-07","TCGA-AA-A03F","Tumor","Primary Tumor","COAD","female",89,"III","MSS/MSI-L","TCGA-2012 call",0.3075,0.22,4.2,0.78,"Inflammatory (Immune C3)",549,1,0,1,1,549
+"TCGA-AA-A02O-01A-21R-A16W-07","TCGA-AA-A02O","Tumor","Primary Tumor","COAD","male",82,"II","MSS/MSI-L","TCGA-2012 call",0.3293,0.48,5.333333333,0.8,"Wound Healing (Immune C1)",28,0,28,0,0,28
+"TCGA-CA-6716-01A-11R-1839-07","TCGA-CA-6716","Tumor","Primary Tumor","COAD","male",65,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3773,0.56,4.566666667,0.73,"Wound Healing (Immune C1)",371,0,371,0,0,371
+"TCGA-AD-A5EJ-01A-11R-A28H-07","TCGA-AD-A5EJ","Tumor","Primary Tumor","COAD","female",74,"II","MSI-H","MANTIS (PanCanAtlas)",1.0934,22.4,48.2,0.68,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-CM-5344-01A-21R-1723-07","TCGA-CM-5344","Tumor","Primary Tumor","COAD","female",39,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3396,0.47,1.966666667,0.54,"Wound Healing (Immune C1)",670,0,670,0,0,670
+"TCGA-CK-4950-01A-01R-1723-07","TCGA-CK-4950","Tumor","Primary Tumor","COAD","female",68,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3697,0.31,5.1,0.44,"Wound Healing (Immune C1)",2599,0,2599,0,0,2599
+"TCGA-QG-A5YX-01A-11R-A28H-07","TCGA-QG-A5YX","Tumor","Primary Tumor","COAD","female",61,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.304,0.18,2.733333333,0.87,"Wound Healing (Immune C1)",1003,0,1003,0,0,1003
+"TCGA-AA-3526-01A-02R-A32Z-07","TCGA-AA-3526","Tumor","Primary Tumor","COAD","male",57,"I","MSS/MSI-L","TCGA-2012 call",0.3851,1.33,0.833333333,0.74,"IFN-gamma Dominant (Immune C2)",580,0,580,0,0,580
+"TCGA-QG-A5Z1-01A-11R-A28H-07","TCGA-QG-A5Z1","Tumor","Primary Tumor","COAD","male",71,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.2924,0.03,3.166666667,0.8,"Wound Healing (Immune C1)",256,1,256,1,0,256
+"TCGA-A6-6648-01A-11R-1774-07","TCGA-A6-6648","Tumor","Primary Tumor","COAD","male",56,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3926,0.52,2.966666667,0.46,"Wound Healing (Immune C1)",766,0,766,0,1,686
+"TCGA-AD-6889-01A-11R-1928-07","TCGA-AD-6889","Tumor","Primary Tumor","COAD","male",76,,"MSI-H","MANTIS (PanCanAtlas)",1.3414,40.44,57.4,0.88,"Wound Healing (Immune C1)",2532,1,2532,1,1,1516
+"TCGA-D5-6920-01A-11R-1928-07","TCGA-D5-6920","Tumor","Primary Tumor","COAD","female",76,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3434,0.01,3.566666667,0.41,"Wound Healing (Immune C1)",377,0,377,0,0,377
+"TCGA-CA-5256-01A-01R-1410-07","TCGA-CA-5256","Tumor","Primary Tumor","COAD","female",54,"II","MSS/MSI-L","TCGA-2012 call",0.3522,0.07,2.433333333,0.66,"Wound Healing (Immune C1)",379,0,379,0,0,379
+"TCGA-CM-6170-01A-11R-1653-07","TCGA-CM-6170","Tumor","Primary Tumor","COAD","female",72,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3219,0.21,2.8,0.78,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-SS-A7HO-01A-21R-A37K-07","TCGA-SS-A7HO","Tumor","Primary Tumor","COAD","female",44,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3318,1.19,4.833333333,0.81,"Wound Healing (Immune C1)",1829,0,,0,1,506
+"TCGA-CK-4947-01B-11R-1653-07","TCGA-CK-4947","Tumor","Primary Tumor","COAD","female",46,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3269,0.07,2.933333333,0.59,"Wound Healing (Immune C1)",534,0,,0,1,21
+"TCGA-CM-6675-01A-11R-1839-07","TCGA-CM-6675","Tumor","Primary Tumor","COAD","male",35,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.357,0.38,2.733333333,0.93,"IFN-gamma Dominant (Immune C2)",397,0,,0,1,337
+"TCGA-AZ-4614-01A-01R-1410-07","TCGA-AZ-4614","Tumor","Primary Tumor","COAD","female",71,"IV","MSS/MSI-L","TCGA-2012 call",0.3773,0.94,6,0.86,"Wound Healing (Immune C1)",172,1,172,1,1,172
+"TCGA-A6-A567-01A-31R-A28H-07","TCGA-A6-A567","Tumor","Primary Tumor","COAD","male",56,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.2929,0.07,1.7,0.73,"Wound Healing (Immune C1)",1881,1,1881,1,1,612
+"TCGA-A6-4107-01A-02R-1410-07","TCGA-A6-4107","Tumor","Primary Tumor","COAD","female",57,"III","MSS/MSI-L","TCGA-2012 call",0.3809,0.01,11.13333333,0.43,"Wound Healing (Immune C1)",987,0,987,0,0,987
+"TCGA-A6-2686-11A-01R-A32Z-07","TCGA-A6-2686","Normal","Solid Tissue Normal","COAD","female",81,"II","MSI-H","MANTIS (PanCanAtlas)",1.2375,41.35,135.7666667,0.56,"IFN-gamma Dominant (Immune C2)",1126,1,1126,1,0,1126
+"TCGA-D5-6932-01A-11R-1928-07","TCGA-D5-6932","Tumor","Primary Tumor","COAD","male",69,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3444,0.19,4.1,0.62,"Wound Healing (Immune C1)",346,0,346,0,0,346
+"TCGA-CK-5915-01A-11R-1653-07","TCGA-CK-5915","Tumor","Primary Tumor","COAD","male",63,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3162,0.29,2.733333333,0.88,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-CM-6171-01A-11R-1653-07","TCGA-CM-6171","Tumor","Primary Tumor","COAD","female",77,"I","MSI-H","MANTIS (PanCanAtlas)",1.1813,43,38.53333333,0.77,"Wound Healing (Immune C1)",427,0,427,0,0,427
+"TCGA-AA-3679-01A-02R-0905-07","TCGA-AA-3679","Tumor","Primary Tumor","COAD","male",59,"IV","MSS/MSI-L","TCGA-2012 call",0.2575,0.41,2.033333333,0.78,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-CA-5254-01A-21R-1839-07","TCGA-CA-5254","Tumor","Primary Tumor","COAD","female",42,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3896,0.53,6.033333333,0.72,"Wound Healing (Immune C1)",386,0,386,0,0,386
+"TCGA-A6-5659-11A-01R-1653-07","TCGA-A6-5659","Normal","Solid Tissue Normal","COAD","male",82,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4614,1,13.5,0.85,"Wound Healing (Immune C1)",926,0,926,0,0,926
+"TCGA-D5-6930-01A-11R-1928-07","TCGA-D5-6930","Tumor","Primary Tumor","COAD","male",67,"II","MSI-H","MANTIS (PanCanAtlas)",0.6864,15.2,40.63333333,0.44,"Wound Healing (Immune C1)",406,0,406,0,0,406
+"TCGA-F4-6704-01A-11R-1839-07","TCGA-F4-6704","Tumor","Primary Tumor","COAD","male",60,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3596,0.06,2.6,0.5,"Wound Healing (Immune C1)",47,0,47,0,0,47
+"TCGA-AZ-4615-01A-01R-1410-07","TCGA-AZ-4615","Tumor","Primary Tumor","COAD","male",84,,"MSI-H","TCGA-2012 call",1.0327,33.79,27.83333333,0.65,"IFN-gamma Dominant (Immune C2)",1002,0,,0,1,688
+"TCGA-AZ-6600-11A-01R-1774-07","TCGA-AZ-6600","Normal","Solid Tissue Normal","COAD","male",64,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3613,0.46,4.166666667,0.51,"Wound Healing (Immune C1)",368,1,368,1,1,368
+"TCGA-D5-6536-01A-11R-1723-07","TCGA-D5-6536","Tumor","Primary Tumor","COAD","male",73,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3522,0.23,3.566666667,0.74,"Lymphocyte Depleted (Immune C4)",543,0,543,0,1,493
+"TCGA-F4-6855-01A-11R-1928-07","TCGA-F4-6855","Tumor","Primary Tumor","COAD","female",70,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3419,0.03,3.3,0.65,"Wound Healing (Immune C1)",1442,0,1442,0,0,1442
+"TCGA-A6-2674-01A-02R-A278-07","TCGA-A6-2674","Tumor","Primary Tumor","COAD","male",71,"IV","MSS/MSI-L","TCGA-2012 call",0.4577,0.02,7.666666667,0.25,"Wound Healing (Immune C1)",1331,0,1331,0,1,735
+"TCGA-AA-A01T-01A-21R-A16W-07","TCGA-AA-A01T","Tumor","Primary Tumor","COAD","female",63,"III","MSS/MSI-L","TCGA-2012 call",0.3369,1.26,3.033333333,0.71,"Wound Healing (Immune C1)",1005,0,1005,0,0,1005
+"TCGA-QG-A5Z2-01A-11R-A28H-07","TCGA-QG-A5Z2","Tumor","Primary Tumor","COAD","male",61,"I","MSI-H","MANTIS (PanCanAtlas)",0.86,19.29,34.46666667,0.5,"IFN-gamma Dominant (Immune C2)",952,0,952,0,0,952
+"TCGA-AU-3779-01A-01R-1723-07","TCGA-AU-3779","Tumor","Primary Tumor","COAD","female",80,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3365,0.29,3.133333333,0.62,"IFN-gamma Dominant (Immune C2)",441,0,441,0,0,441
+"TCGA-AA-3667-01A-01R-0905-07","TCGA-AA-3667","Tumor","Primary Tumor","COAD","female",36,"I","MSS/MSI-L","TCGA-2012 call",0.2649,0.71,2.366666667,0.84,"Wound Healing (Immune C1)",426,0,426,0,0,426
+"TCGA-AA-3664-01A-01R-0905-07","TCGA-AA-3664","Tumor","Primary Tumor","COAD","female",74,"II","MSS/MSI-L","TCGA-2012 call",0.2631,0.79,4.833333333,0.87,"IFN-gamma Dominant (Immune C2)",1643,0,1643,0,0,1643
+"TCGA-AA-3666-01A-02R-0905-07","TCGA-AA-3666","Tumor","Primary Tumor","COAD","male",68,"III","MSS/MSI-L","TCGA-2012 call",0.2807,1.17,5.666666667,0.82,"Wound Healing (Immune C1)",61,1,61,1,1,61
+"TCGA-AA-3930-01A-01R-1022-07","TCGA-AA-3930","Tumor","Primary Tumor","COAD","male",66,"IV","MSS/MSI-L","TCGA-2012 call",0.3672,0.43,,0.68,"IFN-gamma Dominant (Immune C2)",61,1,61,1,1,61
+"TCGA-AZ-4308-01A-01R-1410-07","TCGA-AZ-4308","Tumor","Primary Tumor","COAD","female",47,"III","MSS/MSI-L","TCGA-2012 call",0.363,0.11,2.466666667,0.69,"Wound Healing (Immune C1)",3324,0,3324,0,0,3324
+"TCGA-CK-5913-01A-11R-1653-07","TCGA-CK-5913","Tumor","Primary Tumor","COAD","female",58,"II","MSI-H","MANTIS (PanCanAtlas)",0.9213,32.98,27.03333333,0.7,"Wound Healing (Immune C1)",1561,0,1561,0,0,1561
+"TCGA-AA-A010-01A-01R-A089-07","TCGA-AA-A010","Tumor","Primary Tumor","COAD","female",46,"II","MSS/MSI-L","TCGA-2012 call",0.3765,4.19,250.7,0.77,"Wound Healing (Immune C1)",1064,0,1064,0,0,1064
+"TCGA-A6-2675-01A-02R-1723-07","TCGA-A6-2675","Tumor","Primary Tumor","COAD","male",78,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.363,0.05,5.833333333,0.42,"IFN-gamma Dominant (Immune C2)",1321,0,1321,0,0,1321
+"TCGA-A6-2679-01A-02R-1410-07","TCGA-A6-2679","Tumor","Primary Tumor","COAD","female",73,"II","MSS/MSI-L","TCGA-2012 call",0.3403,0.19,,0.48,,1366,0,1366,0,0,1366
+"TCGA-AD-5900-01A-11R-1653-07","TCGA-AD-5900","Tumor","Primary Tumor","COAD","male",67,"I","MSI-H","MANTIS (PanCanAtlas)",0.9101,36.46,49.26666667,0.53,"IFN-gamma Dominant (Immune C2)",370,0,370,0,0,370
+"TCGA-5M-AAT4-01A-11R-A41B-07","TCGA-5M-AAT4","Tumor","Primary Tumor","COAD","male",74,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3232,0.55,5.833333333,0.68,"Wound Healing (Immune C1)",49,1,49,1,1,49
+"TCGA-AA-A00E-01A-01R-A002-07","TCGA-AA-A00E","Tumor","Primary Tumor","COAD","male",64,"II","MSI-H","TCGA-2012 call",,14.23,,0.54,"Wound Healing (Immune C1)",913,0,913,0,0,913
+"TCGA-AA-A01F-01A-01R-A002-07","TCGA-AA-A01F","Tumor","Primary Tumor","COAD","male",72,"III","MSS/MSI-L","TCGA-2012 call",,0.03,,0.89,"Wound Healing (Immune C1)",974,0,974,0,0,974
+"TCGA-AA-A01P-01A-21R-A083-07","TCGA-AA-A01P","Tumor","Primary Tumor","COAD","female",80,"III","MSI-H","TCGA-2012 call",0.6789,20.7,28.36666667,0.38,"IFN-gamma Dominant (Immune C2)",1158,1,1158,1,1,762
+"TCGA-DM-A288-01A-11R-A16W-07","TCGA-DM-A288","Tumor","Primary Tumor","COAD","male",68,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3948,0.31,2.466666667,0.83,"Lymphocyte Depleted (Immune C4)",427,1,427,1,1,320
+"TCGA-AY-5543-01A-01R-1653-07","TCGA-AY-5543","Tumor","Primary Tumor","COAD","female",65,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3374,0.61,3.233333333,0.7,"IFN-gamma Dominant (Immune C2)",1004,0,1004,0,0,1004
+"TCGA-AA-3495-01A-01R-1410-07","TCGA-AA-3495","Tumor","Primary Tumor","COAD","male",79,"I","MSS/MSI-L","TCGA-2012 call",0.3588,,,0.57,"Wound Healing (Immune C1)",1127,0,1127,0,0,1127
+"TCGA-DM-A1D0-01A-11R-A155-07","TCGA-DM-A1D0","Tumor","Primary Tumor","COAD","female",79,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3358,0.67,3.233333333,0.85,"Wound Healing (Immune C1)",3974,0,3974,0,0,3974
+"TCGA-G4-6303-01A-11R-1774-07","TCGA-G4-6303","Tumor","Primary Tumor","COAD","female",54,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.359,0.5,2.833333333,0.68,"Wound Healing (Immune C1)",2003,1,2003,1,1,872
+"TCGA-AM-5820-01A-01R-1653-07","TCGA-AM-5820","Tumor","Primary Tumor","COAD","female",59,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3465,1.64,2.366666667,0.77,"Lymphocyte Depleted (Immune C4)",14,0,14,0,0,14
+"TCGA-G4-6293-01A-11R-1723-07","TCGA-G4-6293","Tumor","Primary Tumor","COAD","female",49,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3277,0.28,3.5,0.61,"Wound Healing (Immune C1)",4051,0,4051,0,0,4051
+"TCGA-D5-6898-01A-11R-1928-07","TCGA-D5-6898","Tumor","Primary Tumor","COAD","female",51,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3407,0.17,2.366666667,0.58,"Wound Healing (Immune C1)",229,0,229,0,0,229
+"TCGA-A6-5667-11A-01R-1723-07","TCGA-A6-5667","Normal","Solid Tissue Normal","COAD","female",40,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3604,1.11,3.766666667,0.69,"Wound Healing (Immune C1)",887,0,887,0,0,887
+"TCGA-F4-6461-01A-11R-1774-07","TCGA-F4-6461","Tumor","Primary Tumor","COAD","female",41,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3699,0.23,4.6,0.59,"Wound Healing (Immune C1)",338,1,338,1,1,288
+"TCGA-F4-6460-01A-11R-1774-07","TCGA-F4-6460","Tumor","Primary Tumor","COAD","female",51,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3437,0.24,4.3,0.6,"Wound Healing (Immune C1)",972,1,972,1,1,313
+"TCGA-D5-6541-01A-11R-1723-07","TCGA-D5-6541","Tumor","Primary Tumor","COAD","male",49,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3319,0.11,2.8,0.58,"IFN-gamma Dominant (Immune C2)",474,0,474,0,0,474
+"TCGA-AA-3869-01A-01R-1022-07","TCGA-AA-3869","Tumor","Primary Tumor","COAD","male",76,"IV","MSS/MSI-L","TCGA-2012 call",0.4048,0.67,,0.7,"IFN-gamma Dominant (Immune C2)",822,1,822,1,1,822
+"TCGA-CK-5916-01A-11R-1653-07","TCGA-CK-5916","Tumor","Primary Tumor","COAD","female",71,"I","MSI-H","MANTIS (PanCanAtlas)",0.9208,35.2,47.1,0.58,"IFN-gamma Dominant (Immune C2)",643,1,643,1,1,292
+"TCGA-CA-5797-01A-01R-1653-07","TCGA-CA-5797","Tumor","Primary Tumor","COAD","male",56,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3554,0.61,2,0.64,"Wound Healing (Immune C1)",383,0,383,0,0,383
+"TCGA-CM-6172-01A-11R-1653-07","TCGA-CM-6172","Tumor","Primary Tumor","COAD","female",70,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3388,0.16,2.8,0.74,"Wound Healing (Immune C1)",335,0,335,0,0,335
+"TCGA-AD-6963-01A-11R-1928-07","TCGA-AD-6963","Tumor","Primary Tumor","COAD","male",58,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3442,0.02,2.433333333,0.35,"Wound Healing (Immune C1)",834,0,834,0,0,834
+"TCGA-A6-A5ZU-01A-11R-A28H-07","TCGA-A6-A5ZU","Tumor","Primary Tumor","COAD","male",59,"III",,,,2.59,,,"Inflammatory (Immune C3)",293,0,293,0,0,293
+"TCGA-NH-A50T-01A-11R-A28H-07","TCGA-NH-A50T","Tumor","Primary Tumor","COAD","female",68,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.2912,0.31,4.033333333,0.75,"Wound Healing (Immune C1)",553,0,553,0,0,553
+"TCGA-F4-6808-01A-11R-1839-07","TCGA-F4-6808","Tumor","Primary Tumor","COAD","female",54,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3566,0.12,4.1,0.56,"Wound Healing (Immune C1)",1024,0,1024,0,0,1024
+"TCGA-AA-A01Q-01A-01R-A002-07","TCGA-AA-A01Q","Tumor","Primary Tumor","COAD","female",48,"II","MSI-H","TCGA-2012 call",,5.43,,0.86,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-5M-AAT5-01A-21R-A41B-07","TCGA-5M-AAT5","Tumor","Primary Tumor","COAD",,,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3131,0.35,2.633333333,0.83,"Wound Healing (Immune C1)",,,,,,
+"TCGA-NH-A6GA-01A-11R-A37K-07","TCGA-NH-A6GA","Tumor","Primary Tumor","COAD","male",58,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3295,1.07,2.833333333,0.8,"Wound Healing (Immune C1)",302,1,302,1,1,6
+"TCGA-AA-3875-01A-01R-0905-07","TCGA-AA-3875","Tumor","Primary Tumor","COAD","female",78,"I","MSS/MSI-L","TCGA-2012 call",0.2689,0.14,3.9,0.35,"IFN-gamma Dominant (Immune C2)",549,0,549,0,0,549
+"TCGA-A6-2671-11A-01R-A32Z-07","TCGA-A6-2671","Normal","Solid Tissue Normal","COAD","male",85,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.35,0.37,4.066666667,0.73,"IFN-gamma Dominant (Immune C2)",1331,1,1331,1,1,535
+"TCGA-DM-A1HA-01A-11R-A155-07","TCGA-DM-A1HA","Tumor","Primary Tumor","COAD","male",82,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3507,1.46,4.5,0.93,"Wound Healing (Immune C1)",4000,0,2600,0,0,4000
+"TCGA-CM-4747-01A-01R-1410-07","TCGA-CM-4747","Tumor","Primary Tumor","COAD","male",47,"IV","MSS/MSI-L","TCGA-2012 call",0.3787,0.01,2.766666667,0.59,"Wound Healing (Immune C1)",761,0,761,0,0,761
+"TCGA-CK-5914-01A-11R-1653-07","TCGA-CK-5914","Tumor","Primary Tumor","COAD","male",81,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3446,1.56,4.366666667,0.77,"Wound Healing (Immune C1)",669,0,669,0,0,669
+"TCGA-AA-3982-01A-02R-1022-07","TCGA-AA-3982","Tumor","Primary Tumor","COAD","male",75,"III","MSS/MSI-L","TCGA-2012 call",0.3356,0.06,4.2,0.54,"IFN-gamma Dominant (Immune C2)",822,0,822,0,0,822
+"TCGA-CM-5864-01A-01R-1653-07","TCGA-CM-5864","Tumor","Primary Tumor","COAD","male",60,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3329,0.53,5.733333333,0.81,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-CK-4948-01B-11R-1653-07","TCGA-CK-4948","Tumor","Primary Tumor","COAD","female",45,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3486,0.22,3.3,0.51,"Wound Healing (Immune C1)",4502,0,4502,0,0,4502
+"TCGA-AA-3520-11A-01R-A32Z-07","TCGA-AA-3520","Normal","Solid Tissue Normal","COAD","female",86,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3835,1.72,0.666666667,0.69,"Wound Healing (Immune C1)",731,0,731,0,0,731
+"TCGA-RU-A8FL-01A-11R-A37K-07","TCGA-RU-A8FL","Tumor","Primary Tumor","COAD","male",51,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3417,0.47,4.2,0.72,"Wound Healing (Immune C1)",1177,0,1177,0,1,256
+"TCGA-AM-5821-01A-01R-1653-07","TCGA-AM-5821","Tumor","Primary Tumor","COAD","female",68,"II","MSI-H","MANTIS (PanCanAtlas)",0.8795,30.25,40.5,0.64,"IFN-gamma Dominant (Immune C2)",28,0,28,0,0,28
+"TCGA-AA-A00F-01A-01R-A002-07","TCGA-AA-A00F","Tumor","Primary Tumor","COAD","male",66,"III","MSS/MSI-L","TCGA-2012 call",,0.07,,0.45,"Wound Healing (Immune C1)",1035,0,1035,0,0,1035
+"TCGA-G4-6297-01A-11R-1723-07","TCGA-G4-6297","Tumor","Primary Tumor","COAD","female",55,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3325,0.14,5.4,0.48,"Wound Healing (Immune C1)",2506,0,,0,1,439
+"TCGA-NH-A8F7-06A-31R-A41B-07","TCGA-NH-A8F7","Tumor","Metastatic","COAD","female",53,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3241,0.36,3.966666667,0.87,"Lymphocyte Depleted (Immune C4)",543,0,543,0,0,543
+"TCGA-D5-6929-01A-31R-1928-07","TCGA-D5-6929","Tumor","Primary Tumor","COAD","female",49,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3524,0.09,3.6,0.48,"Wound Healing (Immune C1)",408,0,408,0,0,408
+"TCGA-AZ-6607-01A-11R-1839-07","TCGA-AZ-6607","Tumor","Primary Tumor","COAD","male",69,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.354,0,2.266666667,0.52,"Wound Healing (Immune C1)",97,1,97,1,1,97
+"TCGA-A6-6650-01B-02R-A277-07","TCGA-A6-6650","Tumor","Primary Tumor","COAD","female",69,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.466,2.26,0,0.78,"Wound Healing (Immune C1)",627,0,627,0,0,627
+"TCGA-AA-3494-01A-01R-1410-07","TCGA-AA-3494","Tumor","Primary Tumor","COAD","male",55,"IV","MSS/MSI-L","TCGA-2012 call",0.3581,,,0.74,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AA-3488-01A-01R-1410-07","TCGA-AA-3488","Tumor","Primary Tumor","COAD","male",58,"IV","MSS/MSI-L","TCGA-2012 call",0.3711,,,0.82,"Wound Healing (Immune C1)",153,1,153,1,1,153
+"TCGA-AA-A01G-01A-01R-A002-07","TCGA-AA-A01G","Tumor","Primary Tumor","COAD","male",63,"II","MSS/MSI-L","TCGA-2012 call",,0,,0.52,"Wound Healing (Immune C1)",365,0,365,0,0,365
+"TCGA-G4-6302-01A-11R-1723-07","TCGA-G4-6302","Tumor","Primary Tumor","COAD","female",89,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4592,3.04,59.73333333,0.21,"Wound Healing (Immune C1)",2047,1,0,1,0,2047
+"TCGA-A6-A56B-01A-31R-A28H-07","TCGA-A6-A56B","Tumor","Primary Tumor","COAD","male",57,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3073,0.22,2.8,0.72,"Wound Healing (Immune C1)",1711,1,1711,1,1,1678
+"TCGA-CK-6747-01A-11R-1839-07","TCGA-CK-6747","Tumor","Primary Tumor","COAD","female",87,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3727,0.64,5.8,0.8,"Wound Healing (Immune C1)",2523,0,820,0,0,2523
+"TCGA-CM-6679-01A-11R-1839-07","TCGA-CM-6679","Tumor","Primary Tumor","COAD","male",58,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3381,0.16,2.366666667,0.39,"Wound Healing (Immune C1)",306,0,306,0,0,306
+"TCGA-AA-3841-01A-01R-0905-07","TCGA-AA-3841","Tumor","Primary Tumor","COAD","male",66,"II","MSS/MSI-L","TCGA-2012 call",0.2896,0.79,2.233333333,0.65,"Wound Healing (Immune C1)",1124,0,1124,0,0,1124
+"TCGA-AA-3509-01A-01R-1410-07","TCGA-AA-3509","Tumor","Primary Tumor","COAD","female",54,"II","MSS/MSI-L","TCGA-2012 call",,,,,"Wound Healing (Immune C1)",1915,0,1915,0,0,1915
+"TCGA-AA-3941-01A-01R-1022-07","TCGA-AA-3941","Tumor","Primary Tumor","COAD","female",84,"IV","MSS/MSI-L","TCGA-2012 call",0.3682,1.05,,0.82,"Wound Healing (Immune C1)",730,0,730,0,0,730
+"TCGA-AZ-5403-01A-01R-1653-07","TCGA-AZ-5403","Tumor","Primary Tumor","COAD","male",43,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3101,0.27,2.566666667,0.38,"Wound Healing (Immune C1)",1910,1,1910,1,1,304
+"TCGA-DM-A28E-01A-11R-A32Y-07","TCGA-DM-A28E","Tumor","Primary Tumor","COAD","female",72,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.379,0.04,2.9,0.92,"Wound Healing (Immune C1)",3648,0,3648,0,0,3648
+"TCGA-AZ-6605-01A-11R-1839-07","TCGA-AZ-6605","Tumor","Primary Tumor","COAD","male",77,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3467,0.02,3.466666667,0.27,"Wound Healing (Immune C1)",159,1,159,1,0,159
+"TCGA-CM-6163-01A-11R-1653-07","TCGA-CM-6163","Tumor","Primary Tumor","COAD","male",74,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3345,0.07,3.166666667,0.47,"Wound Healing (Immune C1)",427,0,427,0,0,427
+"TCGA-A6-6780-01A-11R-A278-07","TCGA-A6-6780","Tumor","Primary Tumor","COAD","male",74,"II","MSI-H","MANTIS (PanCanAtlas)",1.1071,37.25,39.43333333,0.69,"IFN-gamma Dominant (Immune C2)",612,0,612,0,0,612
+"TCGA-D5-6538-01A-11R-1723-07","TCGA-D5-6538","Tumor","Primary Tumor","COAD","female",79,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3432,0.75,3.9,0.92,"Wound Healing (Immune C1)",521,0,521,0,0,521
+"TCGA-NH-A50U-01A-33R-A37K-07","TCGA-NH-A50U","Tumor","Primary Tumor","COAD","male",42,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3425,0.5,2.9,0.83,"IFN-gamma Dominant (Immune C2)",334,1,334,1,1,276
+"TCGA-D5-6535-01A-11R-1723-07","TCGA-D5-6535","Tumor","Primary Tumor","COAD","female",80,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.343,0.28,5.233333333,0.61,"Wound Healing (Immune C1)",460,0,460,0,0,460
+"TCGA-AA-A02Y-01A-43R-A32Y-07","TCGA-AA-A02Y","Tumor","Primary Tumor","COAD","male",73,"I","MSS/MSI-L","TCGA-2012 call",0.3389,0.38,3.633333333,0.75,"Wound Healing (Immune C1)",1216,0,1216,0,0,1216
+"TCGA-5M-AATE-01A-11R-A41B-07","TCGA-5M-AATE","Tumor","Primary Tumor","COAD","male",76,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3252,0.47,3.8,0.65,"Wound Healing (Immune C1)",1200,0,1200,0,1,810
+"TCGA-CM-6677-01A-11R-1839-07","TCGA-CM-6677","Tumor","Primary Tumor","COAD","female",75,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3529,0.48,4.533333333,0.49,"Wound Healing (Immune C1)",337,0,337,0,0,337
+"TCGA-AZ-6598-11A-01R-1774-07","TCGA-AZ-6598","Normal","Solid Tissue Normal","COAD","female",77,"II","MSI-H","MANTIS (PanCanAtlas)",1.3777,43.27,77.83333333,0.86,"Wound Healing (Immune C1)",1503,1,1503,1,0,1503
+"TCGA-5M-AATA-01A-31R-A41B-07","TCGA-5M-AATA","Tumor","Primary Tumor","COAD",,,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3123,0.08,2.366666667,0.43,"IFN-gamma Dominant (Immune C2)",,,,,,
+"TCGA-CK-6746-01A-11R-1839-07","TCGA-CK-6746","Tumor","Primary Tumor","COAD","female",84,"II","MSI-H","MANTIS (PanCanAtlas)",1.1685,36.05,40.13333333,0.85,"IFN-gamma Dominant (Immune C2)",0,0,0,0,0,0
+"TCGA-CM-5348-01A-21R-1723-07","TCGA-CM-5348","Tumor","Primary Tumor","COAD","male",72,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3321,0.56,5.633333333,0.57,"TGF-beta Dominant (Immune C6)",699,0,699,0,0,699
+"TCGA-AA-3489-11A-01R-1839-07","TCGA-AA-3489","Normal","Solid Tissue Normal","COAD","male",75,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3996,0,3.7,0.31,"Wound Healing (Immune C1)",214,1,214,1,1,214
+"TCGA-AA-3517-11A-01R-A32Z-07","TCGA-AA-3517","Normal","Solid Tissue Normal","COAD","male",60,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3204,0.26,0.733333333,0.79,"Wound Healing (Immune C1)",1186,0,1186,0,1,821
+"TCGA-F4-6806-01A-11R-1839-07","TCGA-F4-6806","Tumor","Primary Tumor","COAD","female",59,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3957,0.1,3.433333333,0.71,"Wound Healing (Immune C1)",1260,0,1260,0,1,336
+"TCGA-AA-3518-11A-01R-1672-07","TCGA-AA-3518","Normal","Solid Tissue Normal","COAD","female",81,"II",,,,4.34,,0.4,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-D5-6924-01A-11R-1928-07","TCGA-D5-6924","Tumor","Primary Tumor","COAD","male",68,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3409,0.06,4.9,0.5,"Wound Healing (Immune C1)",435,0,435,0,0,435
+"TCGA-A6-6142-01A-11R-1774-07","TCGA-A6-6142","Tumor","Primary Tumor","COAD","female",56,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3596,0.07,2.633333333,0.45,"Wound Healing (Immune C1)",763,0,,0,1,654
+"TCGA-AA-3864-01A-01R-1022-07","TCGA-AA-3864","Tumor","Primary Tumor","COAD","male",71,"II","MSI-H","TCGA-2012 call",0.8915,23.86,81.76666667,0.75,"Wound Healing (Immune C1)",1612,0,1612,0,0,1612
+"TCGA-CM-4743-01A-01R-1723-07","TCGA-CM-4743","Tumor","Primary Tumor","COAD","male",69,"II","MSI-H","MANTIS (PanCanAtlas)",0.8182,23.82,36.86666667,0.42,"IFN-gamma Dominant (Immune C2)",701,0,701,0,0,701
+"TCGA-DM-A1DB-01A-11R-A155-07","TCGA-DM-A1DB","Tumor","Primary Tumor","COAD","male",68,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3441,0.25,2.2,0.83,"Wound Healing (Immune C1)",1348,1,1348,1,0,1348
+"TCGA-A6-5657-01A-01R-A32Z-07","TCGA-A6-5657","Tumor","Primary Tumor","COAD","male",65,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3201,0.13,6.633333333,0.32,"IFN-gamma Dominant (Immune C2)",962,0,962,0,0,962
+"TCGA-AA-A00N-01A-02R-A00A-07","TCGA-AA-A00N","Tumor","Primary Tumor","COAD","male",75,"II","MSS/MSI-L","TCGA-2012 call",0.3279,32.47,163.3,0.43,"Wound Healing (Immune C1)",122,1,122,1,1,122
+"TCGA-A6-2685-11A-01R-A32Z-07","TCGA-A6-2685","Normal","Solid Tissue Normal","COAD","female",48,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3571,0,2.966666667,0.36,"Wound Healing (Immune C1)",1133,0,1133,0,1,948
+"TCGA-DM-A282-01A-12R-A16W-07","TCGA-DM-A282","Tumor","Primary Tumor","COAD","female",60,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3739,0.03,3.166666667,0.79,"Wound Healing (Immune C1)",4233,0,4233,0,0,4233
+"TCGA-F4-6805-01A-11R-1839-07","TCGA-F4-6805","Tumor","Primary Tumor","COAD","female",58,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3882,0.03,2.266666667,0.45,"Wound Healing (Immune C1)",1047,0,1047,0,0,1047
+"TCGA-AD-A5EK-01A-11R-A28H-07","TCGA-AD-A5EK","Tumor","Primary Tumor","COAD","male",51,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.2808,0.32,2.433333333,0.84,"Wound Healing (Immune C1)",500,0,500,0,0,500
+"TCGA-A6-5656-01A-21R-A278-07","TCGA-A6-5656","Tumor","Primary Tumor","COAD","male",74,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3197,15.42,3.6,0.8,"Wound Healing (Immune C1)",1001,0,1001,0,0,1001
+"TCGA-CM-6165-01A-11R-1653-07","TCGA-CM-6165","Tumor","Primary Tumor","COAD","male",74,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3145,0.1,3.5,0.76,"Wound Healing (Immune C1)",488,0,488,0,0,488
+"TCGA-D5-6533-01A-11R-1723-07","TCGA-D5-6533","Tumor","Primary Tumor","COAD","female",68,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3337,0.52,4.866666667,0.69,"Wound Healing (Immune C1)",775,0,775,0,0,775
+"TCGA-AA-A00W-01A-01R-A002-07","TCGA-AA-A00W","Tumor","Primary Tumor","COAD","male",80,"I","MSS/MSI-L","TCGA-2012 call",,0,,0.83,"Wound Healing (Immune C1)",456,0,456,0,0,456
+"TCGA-A6-2683-01A-01R-0821-07","TCGA-A6-2683","Tumor","Primary Tumor","COAD","female",57,,"MSS/MSI-L","TCGA-2012 call",0.3644,1.46,2.133333333,0.85,"Lymphocyte Depleted (Immune C4)",504,1,504,1,1,300
+"TCGA-DM-A28C-01A-11R-A32Y-07","TCGA-DM-A28C","Tumor","Primary Tumor","COAD","male",74,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3712,0.08,3.333333333,0.8,"Wound Healing (Immune C1)",2475,1,2475,1,1,1929
+"TCGA-DM-A28G-01A-11R-A16W-07","TCGA-DM-A28G","Tumor","Primary Tumor","COAD","male",75,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3656,0.01,3.666666667,0.79,"Wound Healing (Immune C1)",1849,1,1849,1,0,1849
+"TCGA-AA-3521-01A-01R-0821-07","TCGA-AA-3521","Tumor","Primary Tumor","COAD","male",87,,"MSS/MSI-L","TCGA-2012 call",0.3496,2.03,0.566666667,0.7,"Wound Healing (Immune C1)",,0,,0,0,
+"TCGA-AD-6888-01A-11R-1928-07","TCGA-AD-6888","Tumor","Primary Tumor","COAD","male",73,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3466,0.13,3.5,0.57,"Wound Healing (Immune C1)",472,1,472,1,1,343
+"TCGA-AA-3692-01A-01R-0905-07","TCGA-AA-3692","Tumor","Primary Tumor","COAD","female",47,,"MSS/MSI-L","TCGA-2012 call",0.2721,0.31,2.233333333,0.82,"Wound Healing (Immune C1)",1095,1,1095,1,1,396
+"TCGA-AA-3527-01A-01R-0821-07","TCGA-AA-3527","Tumor","Primary Tumor","COAD","female",89,"II","MSS/MSI-L","TCGA-2012 call",0.3161,2.03,1.4,0.77,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-AA-3952-01A-01R-1022-07","TCGA-AA-3952","Tumor","Primary Tumor","COAD","male",68,,"MSS/MSI-L","TCGA-2012 call",0.3274,0.43,3.233333333,0.74,"Wound Healing (Immune C1)",61,1,61,1,1,61
+"TCGA-AA-3530-01A-01R-1022-07","TCGA-AA-3530","Tumor","Primary Tumor","COAD","male",80,"I","MSS/MSI-L","TCGA-2012 call",0.3164,0.4,2.866666667,0.79,"Wound Healing (Immune C1)",580,0,580,0,0,580
+"TCGA-G4-6310-01A-11R-1723-07","TCGA-G4-6310","Tumor","Primary Tumor","COAD","male",69,"III",,,,,,0.55,,1935,0,1935,0,0,1935
+"TCGA-AD-6964-01A-11R-1928-07","TCGA-AD-6964","Tumor","Primary Tumor","COAD","male",58,,"MSI-H","MANTIS (PanCanAtlas)",0.7365,18.65,47.3,0.5,"IFN-gamma Dominant (Immune C2)",331,1,331,1,1,325
+"TCGA-G4-6628-01A-11R-1839-07","TCGA-G4-6628","Tumor","Primary Tumor","COAD","male",78,,"MSI-H","MANTIS (PanCanAtlas)",0.7863,19.28,62.86666667,0.51,"IFN-gamma Dominant (Immune C2)",2424,0,,0,0,2424
+"TCGA-CM-5863-01A-21R-1839-07","TCGA-CM-5863","Tumor","Primary Tumor","COAD","female",60,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3973,0,2.033333333,,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-AA-3522-11A-01R-A32Z-07","TCGA-AA-3522","Normal","Solid Tissue Normal","COAD","male",67,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3234,0.05,1.033333333,0.44,"IFN-gamma Dominant (Immune C2)",1127,0,1127,0,0,1127
+"TCGA-AA-3554-01A-01R-0826-07","TCGA-AA-3554","Tumor","Primary Tumor","COAD","female",62,"II","MSI-H","TCGA-2012 call",,,,0.39,,546,0,546,0,0,546
+"TCGA-NH-A5IV-01A-42R-A37K-07","TCGA-NH-A5IV","Tumor","Primary Tumor","COAD","female",89,"II","MSI-H","MANTIS (PanCanAtlas)",1.2012,41.02,79.83333333,0.79,"Wound Healing (Immune C1)",588,0,0,0,0,588
+"TCGA-AA-3675-01A-02R-0905-07","TCGA-AA-3675","Tumor","Primary Tumor","COAD","male",84,"II","MSS/MSI-L","TCGA-2012 call",0.2618,0.31,2.566666667,0.77,"Wound Healing (Immune C1)",1431,0,1431,0,0,1431
+"TCGA-A6-2676-01A-01R-0826-07","TCGA-A6-2676","Tumor","Primary Tumor","COAD","female",75,"II","MSI-H","TCGA-2012 call",,17.34,,0.69,"IFN-gamma Dominant (Immune C2)",1305,1,1305,1,0,1305
+"TCGA-T9-A92H-01A-11R-A37K-07","TCGA-T9-A92H","Tumor","Primary Tumor","COAD","male",82,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.317,0.4,5.333333333,0.68,"Wound Healing (Immune C1)",362,0,362,0,1,81
+"TCGA-DM-A28K-01A-21R-A32Y-07","TCGA-DM-A28K","Tumor","Primary Tumor","COAD","male",75,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.397,0.05,3.4,0.88,"Wound Healing (Immune C1)",2988,0,2988,0,0,2988
+"TCGA-AY-A8YK-01A-11R-A41B-07","TCGA-AY-A8YK","Tumor","Primary Tumor","COAD","male",44,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3268,0.32,2.033333333,0.57,"Wound Healing (Immune C1)",573,0,573,0,0,573
+"TCGA-AD-6965-01A-11R-1928-07","TCGA-AD-6965","Tumor","Primary Tumor","COAD","male",62,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3643,0.33,3.633333333,0.76,"Wound Healing (Immune C1)",805,0,,0,1,648
+"TCGA-A6-2678-11A-01R-A32Z-07","TCGA-A6-2678","Normal","Solid Tissue Normal","COAD","female",43,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.36,0.64,1.733333333,0.82,"Wound Healing (Immune C1)",1286,0,1286,0,0,1286
+"TCGA-CM-6680-01A-11R-1839-07","TCGA-CM-6680","Tumor","Primary Tumor","COAD","female",78,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4575,1.17,2.8,0.75,"Wound Healing (Immune C1)",366,0,366,0,0,366
+"TCGA-AA-3867-01A-01R-1022-07","TCGA-AA-3867","Tumor","Primary Tumor","COAD","male",73,,"MSS/MSI-L","TCGA-2012 call",0.3148,0.42,3.066666667,0.59,"Wound Healing (Immune C1)",731,0,,0,1,394
+"TCGA-F4-6570-01A-11R-1774-07","TCGA-F4-6570","Tumor","Primary Tumor","COAD","female",78,"II","MSI-H","MANTIS (PanCanAtlas)",0.9787,31.81,55.03333333,0.59,"Wound Healing (Immune C1)",188,1,188,1,0,188
+"TCGA-CK-5912-01A-11R-1653-07","TCGA-CK-5912","Tumor","Primary Tumor","COAD","male",81,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3783,1.79,2.066666667,0.81,"Wound Healing (Immune C1)",1493,1,1493,1,0,1493
+"TCGA-AA-3833-01A-01R-0905-07","TCGA-AA-3833","Tumor","Primary Tumor","COAD","female",63,"II","MSI-H","TCGA-2012 call",0.9553,27.18,19.13333333,0.4,"Wound Healing (Immune C1)",485,0,485,0,0,485
+"TCGA-AA-3986-01A-02R-1022-07","TCGA-AA-3986","Tumor","Primary Tumor","COAD","male",73,,"MSS/MSI-L","TCGA-2012 call",0.3248,0.09,2.833333333,0.58,"Wound Healing (Immune C1)",580,0,,0,0,580
+"TCGA-A6-6654-01A-21R-1839-07","TCGA-A6-6654","Tumor","Primary Tumor","COAD","female",65,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3351,0.07,5.666666667,0.32,"Wound Healing (Immune C1)",726,0,726,0,0,726
+"TCGA-AA-3850-01A-01R-1022-07","TCGA-AA-3850","Tumor","Primary Tumor","COAD","male",74,"I","MSS/MSI-L","TCGA-2012 call",0.3018,0.07,3.533333333,0.23,"Wound Healing (Immune C1)",0,1,0,1,1,0
+"TCGA-AA-A01X-01A-21R-A083-07","TCGA-AA-A01X","Tumor","Primary Tumor","COAD","female",80,,"MSS/MSI-L","TCGA-2012 call",0.3184,0.38,2.166666667,0.62,"Wound Healing (Immune C1)",791,0,,0,1,791
+"TCGA-CM-5860-01A-01R-1653-07","TCGA-CM-5860","Tumor","Primary Tumor","COAD","male",44,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3393,0.54,3.5,0.56,"Wound Healing (Immune C1)",974,0,974,0,0,974
+"TCGA-CM-6162-01A-11R-1653-07","TCGA-CM-6162","Tumor","Primary Tumor","COAD","female",48,"III","MSI-H","MANTIS (PanCanAtlas)",0.8773,29.11,33.63333333,0.49,"Wound Healing (Immune C1)",365,0,365,0,0,365
+"TCGA-A6-6140-01A-11R-1774-07","TCGA-A6-6140","Tumor","Primary Tumor","COAD","male",62,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3659,,,0.81,"Wound Healing (Immune C1)",734,0,734,0,0,734
+"TCGA-A6-2681-01A-01R-1410-07","TCGA-A6-2681","Tumor","Primary Tumor","COAD","female",73,,"MSS/MSI-L","TCGA-2012 call",0.3456,0.13,8.666666667,0.72,"Wound Healing (Immune C1)",1387,0,,0,1,1150
+"TCGA-DM-A1D7-01A-11R-A155-07","TCGA-DM-A1D7","Tumor","Primary Tumor","COAD","male",82,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3316,0.01,4.2,0.72,"Wound Healing (Immune C1)",405,1,405,1,1,80
+"TCGA-AA-3812-01A-01R-0905-07","TCGA-AA-3812","Tumor","Primary Tumor","COAD","female",82,"II","MSS/MSI-L","TCGA-2012 call",0.2659,0.18,3.6,0.42,"Inflammatory (Immune C3)",1066,0,1066,0,1,762
+"TCGA-A6-3807-01A-01R-1022-07","TCGA-A6-3807","Tumor","Primary Tumor","COAD","female",53,"III","MSS/MSI-L","TCGA-2012 call",0.4215,1.24,3,0.52,"Wound Healing (Immune C1)",1054,0,1054,0,0,1054
+"TCGA-AZ-4323-01A-21R-1839-07","TCGA-AZ-4323","Tumor","Primary Tumor","COAD","male",37,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.426,0.05,1.7,0.2,"Wound Healing (Immune C1)",43,1,43,1,1,43
+"TCGA-D5-6923-01A-11R-A32Z-07","TCGA-D5-6923","Tumor","Primary Tumor","COAD","male",57,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3476,0.2,0,0.64,"Wound Healing (Immune C1)",378,0,378,0,0,378
+"TCGA-CM-4752-01A-01R-1410-07","TCGA-CM-4752","Tumor","Primary Tumor","COAD","male",58,"II","MSS/MSI-L","TCGA-2012 call",0.3498,0.02,4.033333333,0.38,"IFN-gamma Dominant (Immune C2)",396,0,396,0,0,396
+"TCGA-AA-3815-01A-01R-1022-07","TCGA-AA-3815","Tumor","Primary Tumor","COAD","female",65,"II","MSI-H","TCGA-2012 call",,,,,"IFN-gamma Dominant (Immune C2)",1005,0,1005,0,0,1005
+"TCGA-AA-A01R-01A-21R-A083-07","TCGA-AA-A01R","Tumor","Primary Tumor","COAD","male",47,"III","MSI-H","TCGA-2012 call",0.7418,22.57,54.26666667,0.63,"IFN-gamma Dominant (Immune C2)",1065,0,1065,0,1,608
+"TCGA-AA-3538-01A-01R-0821-07","TCGA-AA-3538","Tumor","Primary Tumor","COAD","female",54,"I","MSS/MSI-L","TCGA-2012 call",0.3368,0,0.5,0.72,"Wound Healing (Immune C1)",791,0,791,0,0,791
+"TCGA-AA-3980-01A-02R-1022-07","TCGA-AA-3980","Tumor","Primary Tumor","COAD","female",89,"I","MSS/MSI-L","TCGA-2012 call",0.3103,0.38,3.2,,"IFN-gamma Dominant (Immune C2)",822,0,242,0,0,822
+"TCGA-AA-3856-01A-01R-0905-07","TCGA-AA-3856","Tumor","Primary Tumor","COAD","male",59,"II","MSS/MSI-L","TCGA-2012 call",0.2645,0.3,1.9,0.55,"IFN-gamma Dominant (Immune C2)",30,0,30,0,0,30
+"TCGA-AA-A004-01A-01R-A00A-07","TCGA-AA-A004","Tumor","Primary Tumor","COAD","male",76,"II","MSS/MSI-L","TCGA-2012 call",0.2846,0.84,2.2,0.55,"Lymphocyte Depleted (Immune C4)",424,0,424,0,0,424
+"TCGA-A6-5666-01A-01R-1653-07","TCGA-A6-5666","Tumor","Primary Tumor","COAD","male",78,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3139,1,5.933333333,0.85,"Wound Healing (Immune C1)",995,0,,0,1,509
+"TCGA-AU-6004-01A-11R-1723-07","TCGA-AU-6004","Tumor","Primary Tumor","COAD","female",69,"I","MSI-H","MANTIS (PanCanAtlas)",0.8424,27.82,32.26666667,0.46,"IFN-gamma Dominant (Immune C2)",824,0,824,0,0,824
+"TCGA-AA-3947-01A-01R-1022-07","TCGA-AA-3947","Tumor","Primary Tumor","COAD","female",60,"II","MSI-H","TCGA-2012 call",1.2515,40,76.8,0.78,"Lymphocyte Depleted (Immune C4)",1004,0,1004,0,0,1004
+"TCGA-DM-A28M-01A-12R-A16W-07","TCGA-DM-A28M","Tumor","Primary Tumor","COAD","male",63,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3983,0.13,3.3,0.76,"Wound Healing (Immune C1)",2895,0,2895,0,0,2895
+"TCGA-A6-5660-01A-01R-1653-07","TCGA-A6-5660","Tumor","Primary Tumor","COAD","male",73,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3322,0.73,7.533333333,0.88,"Wound Healing (Immune C1)",888,0,888,0,0,888
+"TCGA-AA-3710-01A-01R-1022-07","TCGA-AA-3710","Tumor","Primary Tumor","COAD","female",80,"II","MSI-H","TCGA-2012 call",0.8652,31.62,,0.43,"IFN-gamma Dominant (Immune C2)",821,0,821,0,0,821
+"TCGA-F4-6856-01A-11R-1928-07","TCGA-F4-6856","Tumor","Primary Tumor","COAD","male",45,"I","MSI-H","MANTIS (PanCanAtlas)",0.8729,27.56,32.46666667,0.6,"Wound Healing (Immune C1)",1074,0,1074,0,0,1074
+"TCGA-D5-5539-01A-01R-1653-07","TCGA-D5-5539","Tumor","Primary Tumor","COAD","male",60,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3573,0.38,3.066666667,0.55,"Wound Healing (Immune C1)",596,0,,0,1,579
+"TCGA-A6-5661-01B-05R-2302-07","TCGA-A6-5661","Tumor","Primary Tumor","COAD","female",80,"II",,,,33.38,81.33333333,0.66,"Wound Healing (Immune C1)",1020,0,1020,0,0,1020
+"TCGA-AA-3663-01A-01R-1723-07","TCGA-AA-3663","Tumor","Primary Tumor","COAD","male",42,"II","MSI-H","MANTIS (PanCanAtlas)",1.2565,41.51,64.86666667,0.79,"Wound Healing (Immune C1)",212,0,212,0,0,212
+"TCGA-A6-2684-11A-01R-A32Z-07","TCGA-A6-2684","Normal","Solid Tissue Normal","COAD","female",75,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.4665,14.49,6.566666667,0.63,"Wound Healing (Immune C1)",1127,0,,0,1,976
+"TCGA-CK-4951-01A-01R-1410-07","TCGA-CK-4951","Tumor","Primary Tumor","COAD","female",79,,"MSI-H","TCGA-2012 call",0.7849,21.62,140.4666667,0.6,"IFN-gamma Dominant (Immune C2)",2134,1,2134,1,1,480
+"TCGA-AA-3492-01A-01R-1410-07","TCGA-AA-3492","Tumor","Primary Tumor","COAD","female",89,"II","MSI-H","TCGA-2012 call",1.2602,35.82,67.43333333,0.81,"Wound Healing (Immune C1)",92,1,1,1,0,92
+"TCGA-CK-6751-01A-11R-1839-07","TCGA-CK-6751","Tumor","Primary Tumor","COAD","female",88,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3583,0.05,5.566666667,0.67,"Wound Healing (Immune C1)",3780,0,518,0,0,3780
+"TCGA-AA-3684-01A-02R-0905-07","TCGA-AA-3684","Tumor","Primary Tumor","COAD","female",64,"IV","MSS/MSI-L","TCGA-2012 call",0.2513,0.09,4.3,0.3,"Wound Healing (Immune C1)",0,0,0,0,0,0
+"TCGA-DM-A1HB-01A-21R-A180-07","TCGA-DM-A1HB","Tumor","Primary Tumor","COAD","male",75,"III","MSI-H","MANTIS (PanCanAtlas)",1.0166,27.61,37.1,0.74,"Wound Healing (Immune C1)",4126,0,4126,0,0,4126
+"TCGA-AA-3846-01A-01R-1022-07","TCGA-AA-3846","Tumor","Primary Tumor","COAD","female",74,"II","MSS/MSI-L","TCGA-2012 call",0.3293,0.67,3.333333333,0.6,"Wound Healing (Immune C1)",518,0,518,0,0,518
+"TCGA-CM-6166-01A-11R-1653-07","TCGA-CM-6166","Tumor","Primary Tumor","COAD","female",48,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3171,0.33,2.666666667,0.73,"Wound Healing (Immune C1)",669,0,669,0,0,669
+"TCGA-CM-6168-01A-11R-1653-07","TCGA-CM-6168","Tumor","Primary Tumor","COAD","female",84,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4083,1.02,6.866666667,0.35,"Wound Healing (Immune C1)",395,0,395,0,0,395
+"TCGA-NH-A8F8-01A-72R-A41B-07","TCGA-NH-A8F8","Tumor","Primary Tumor","COAD","male",79,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3144,0.23,3.5,0.7,"IFN-gamma Dominant (Immune C2)",511,1,511,1,1,511
+"TCGA-AA-3855-01A-01R-1022-07","TCGA-AA-3855","Tumor","Primary Tumor","COAD","male",72,"I","MSS/MSI-L","TCGA-2012 call",0.3187,0.11,4.9,0.63,"Wound Healing (Immune C1)",975,0,975,0,0,975
+"TCGA-AZ-6606-01A-11R-1839-07","TCGA-AZ-6606","Tumor","Primary Tumor","COAD","male",81,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3623,0.2,4.333333333,0.8,"IFN-gamma Dominant (Immune C2)",357,1,357,1,1,357
+"TCGA-G4-6315-01A-11R-1723-07","TCGA-G4-6315","Tumor","Primary Tumor","COAD","male",66,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3321,0.25,4.433333333,0.37,"Wound Healing (Immune C1)",1883,0,1883,0,0,1883
+"TCGA-G4-6309-01A-21R-1839-07","TCGA-G4-6309","Tumor","Primary Tumor","COAD","female",40,,"MSI-H","MANTIS (PanCanAtlas)",0.9341,26.62,27.2,0.81,"Wound Healing (Immune C1)",2600,0,,0,1,2176
+"TCGA-AA-3956-01A-02R-1022-07","TCGA-AA-3956","Tumor","Primary Tumor","COAD","male",65,"II","MSS/MSI-L","TCGA-2012 call",0.3246,0.16,4.533333333,0.35,"Wound Healing (Immune C1)",1035,0,1035,0,0,1035
+"TCGA-AY-6196-01A-11R-1723-07","TCGA-AY-6196","Tumor","Primary Tumor","COAD","male",47,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3602,0.23,7.133333333,0.38,"Inflammatory (Immune C3)",6,0,6,0,0,6
+"TCGA-DM-A280-01A-12R-A16W-07","TCGA-DM-A280","Tumor","Primary Tumor","COAD","female",70,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3888,0.01,4.1,0.39,"Wound Healing (Immune C1)",236,1,236,1,0,236
+"TCGA-QG-A5YV-01A-11R-A28H-07","TCGA-QG-A5YV","Tumor","Primary Tumor","COAD","female",64,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.2586,0,5.466666667,0.59,"Wound Healing (Immune C1)",1301,0,1301,0,0,1301
+"TCGA-G4-6320-01A-11R-1723-07","TCGA-G4-6320","Tumor","Primary Tumor","COAD","male",73,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.5674,14.97,65.7,0.44,"Wound Healing (Immune C1)",804,0,804,0,0,804
+"TCGA-AA-3877-01A-01R-1022-07","TCGA-AA-3877","Tumor","Primary Tumor","COAD","female",83,"I","MSI-H","TCGA-2012 call",0.8655,32.33,36.16666667,0.55,"IFN-gamma Dominant (Immune C2)",943,0,943,0,0,943
+"TCGA-AA-A02J-01A-01R-A00A-07","TCGA-AA-A02J","Tumor","Primary Tumor","COAD","female",70,"IV","MSS/MSI-L","TCGA-2012 call",0.2836,0.54,,0.76,"Wound Healing (Immune C1)",153,1,153,1,1,153
+"TCGA-F4-6854-01A-11R-1928-07","TCGA-F4-6854","Tumor","Primary Tumor","COAD","female",77,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3387,0.1,3.8,0.66,"Wound Healing (Immune C1)",16,0,16,0,0,16
+"TCGA-AA-A00O-01A-02R-A089-07","TCGA-AA-A00O","Tumor","Primary Tumor","COAD","female",83,"III","MSS/MSI-L","TCGA-2012 call",0.2697,1.05,,0.61,"Wound Healing (Immune C1)",822,0,822,0,0,822
+"TCGA-DM-A28F-01A-11R-A32Y-07","TCGA-DM-A28F","Tumor","Primary Tumor","COAD","male",73,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3791,0.24,7.633333333,0.7,"Wound Healing (Immune C1)",1094,1,1094,1,0,1094
+"TCGA-NH-A6GC-01A-12R-A41B-07","TCGA-NH-A6GC","Tumor","Primary Tumor","COAD","female",66,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3241,0.73,3.8,0.78,"Wound Healing (Immune C1)",389,0,389,0,0,389
+"TCGA-AA-3519-01A-02R-0821-07","TCGA-AA-3519","Tumor","Primary Tumor","COAD","male",63,"III","MSS/MSI-L","TCGA-2012 call",0.3647,0.69,1.333333333,0.67,"Wound Healing (Immune C1)",276,0,276,0,0,276
+"TCGA-D5-6922-01A-11R-1928-07","TCGA-D5-6922","Tumor","Primary Tumor","COAD","male",76,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3579,0.07,3.233333333,0.6,"Wound Healing (Immune C1)",308,0,308,0,0,308
+"TCGA-G4-6323-01A-11R-1723-07","TCGA-G4-6323","Tumor","Primary Tumor","COAD","male",50,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3512,0.42,3.033333333,0.6,"Wound Healing (Immune C1)",419,0,419,0,0,419
+"TCGA-AA-A01V-01A-23R-A083-07","TCGA-AA-A01V","Tumor","Primary Tumor","COAD","male",59,"I","MSS/MSI-L","TCGA-2012 call",0.3163,0.31,3.666666667,0.8,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AA-A00K-01A-02R-A002-07","TCGA-AA-A00K","Tumor","Primary Tumor","COAD","male",79,"II","MSS/MSI-L","TCGA-2012 call",,0.41,,0.67,"Wound Healing (Immune C1)",549,0,549,0,0,549
+"TCGA-A6-6651-01A-21R-1839-07","TCGA-A6-6651","Tumor","Primary Tumor","COAD","female",55,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3785,0.08,2.8,0.35,"Wound Healing (Immune C1)",662,0,662,0,0,662
+"TCGA-AA-A00A-01A-01R-A002-07","TCGA-AA-A00A","Tumor","Primary Tumor","COAD","male",80,"II","MSI-H","TCGA-2012 call",,7.51,,1,"Wound Healing (Immune C1)",1157,0,1157,0,0,1157
+"TCGA-AA-3851-01A-01R-1022-07","TCGA-AA-3851","Tumor","Primary Tumor","COAD","male",74,"II","MSS/MSI-L","TCGA-2012 call",0.3204,0.43,2.966666667,0.59,"Wound Healing (Immune C1)",1006,0,1006,0,0,1006
+"TCGA-AA-3548-01A-01R-1873-07","TCGA-AA-3548","Tumor","Primary Tumor","COAD","female",71,"III","MSS/MSI-L","TCGA-2012 call",0.3218,0.04,0.6,0.62,"Wound Healing (Immune C1)",1034,0,1034,0,0,1034
+"TCGA-D5-5540-01A-01R-1653-07","TCGA-D5-5540","Tumor","Primary Tumor","COAD","male",73,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3281,0.88,3.7,0.89,"Wound Healing (Immune C1)",1706,0,1706,0,0,1706
+"TCGA-AA-3977-01A-01R-1022-07","TCGA-AA-3977","Tumor","Primary Tumor","COAD","male",65,,"MSS/MSI-L","TCGA-2012 call",0.3545,0.37,115.3,0.73,"Wound Healing (Immune C1)",761,0,761,0,0,761
+"TCGA-CM-6161-01A-11R-1653-07","TCGA-CM-6161","Tumor","Primary Tumor","COAD","female",36,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3145,0.25,2.633333333,0.66,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-AA-A02E-01A-01R-A00A-07","TCGA-AA-A02E","Tumor","Primary Tumor","COAD","female",82,"IV","MSS/MSI-L","TCGA-2012 call",0.2544,1.66,4.933333333,0.68,"Wound Healing (Immune C1)",90,1,90,1,1,90
+"TCGA-AY-6386-01A-21R-1723-07","TCGA-AY-6386","Tumor","Primary Tumor","COAD","female",66,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.327,0.27,3.333333333,0.69,"Wound Healing (Immune C1)",542,0,542,0,0,542
+"TCGA-A6-6141-01A-11R-1774-07","TCGA-A6-6141","Tumor","Primary Tumor","COAD","male",31,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3495,0.01,,0.48,"Wound Healing (Immune C1)",255,0,255,0,0,255
+"TCGA-D5-6931-01A-11R-1928-07","TCGA-D5-6931","Tumor","Primary Tumor","COAD","male",77,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3574,0.12,9.366666667,0.48,"Wound Healing (Immune C1)",365,0,365,0,0,365
+"TCGA-CA-5796-01A-01R-1653-07","TCGA-CA-5796","Tumor","Primary Tumor","COAD","female",52,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3604,0.15,2.033333333,0.84,"Inflammatory (Immune C3)",377,0,377,0,0,377
+"TCGA-AA-A02H-01A-01R-A089-07","TCGA-AA-A02H","Tumor","Primary Tumor","COAD","female",74,"IV","MSS/MSI-L","TCGA-2012 call",0.2874,2.03,2.466666667,0.73,"Wound Healing (Immune C1)",61,1,61,1,1,61
+"TCGA-AA-3852-01A-01R-0905-07","TCGA-AA-3852","Tumor","Primary Tumor","COAD","male",88,"II","MSS/MSI-L","TCGA-2012 call",0.2731,0.32,4.8,0.65,"Wound Healing (Immune C1)",0,1,0,1,1,0
+"TCGA-AY-4070-01A-01R-1113-07","TCGA-AY-4070","Tumor","Primary Tumor","COAD","female",50,,"MSS/MSI-L","TCGA-2012 call",0.2687,0.78,5.033333333,0.31,"Wound Healing (Immune C1)",496,1,496,1,1,186
+"TCGA-DM-A0X9-01A-11R-A155-07","TCGA-DM-A0X9","Tumor","Primary Tumor","COAD","female",71,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3503,0.2,5.666666667,0.77,"Wound Healing (Immune C1)",3641,0,3641,0,0,3641
+"TCGA-AA-A02R-01A-01R-A00A-07","TCGA-AA-A02R","Tumor","Primary Tumor","COAD","female",84,"II","MSI-H","TCGA-2012 call",1.2923,32.62,36.36666667,0.66,"IFN-gamma Dominant (Immune C2)",670,1,670,1,1,670
+"TCGA-WS-AB45-01A-11R-A41B-07","TCGA-WS-AB45","Tumor","Primary Tumor","COAD","female",52,"II","MSI-H","MANTIS (PanCanAtlas)",0.6782,24.48,84.33333333,0.24,"TGF-beta Dominant (Immune C6)",2130,0,2130,0,0,2130
+"TCGA-DM-A1D4-01A-21R-A155-07","TCGA-DM-A1D4","Tumor","Primary Tumor","COAD","male",80,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3544,0.35,5.466666667,0.81,"Wound Healing (Immune C1)",2821,1,2821,1,1,1920
+"TCGA-AA-3502-01A-01R-1410-07","TCGA-AA-3502","Tumor","Primary Tumor","COAD","male",73,"I","MSS/MSI-L","TCGA-2012 call",0.3387,0.19,5.666666667,0.81,"Wound Healing (Immune C1)",1065,0,1065,0,0,1065
+"TCGA-A6-3809-01B-04R-A277-07","TCGA-A6-3809","Tumor","Primary Tumor","COAD","female",71,"II","MSI-H","TCGA-2012 call",0.9595,36.48,39.1,0.62,"IFN-gamma Dominant (Immune C2)",996,0,996,0,0,996
+"TCGA-AA-A01I-01A-02R-A089-07","TCGA-AA-A01I","Tumor","Primary Tumor","COAD","male",76,"I","MSS/MSI-L","TCGA-2012 call",0.2695,0.87,3.433333333,0.72,"Wound Healing (Immune C1)",943,0,943,0,0,943
+"TCGA-4N-A93T-01A-11R-A37K-07","TCGA-4N-A93T","Tumor","Primary Tumor","COAD","male",67,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3317,0.69,2.9,0.85,"Lymphocyte Depleted (Immune C4)",146,0,146,0,0,146
+"TCGA-CK-6748-01A-11R-1839-07","TCGA-CK-6748","Tumor","Primary Tumor","COAD","female",45,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3564,0.22,1.9,0.72,"Wound Healing (Immune C1)",61,0,61,0,0,61
+"TCGA-D5-5541-01A-01R-1653-07","TCGA-D5-5541","Tumor","Primary Tumor","COAD","male",63,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.328,0.51,2,0.78,"Wound Healing (Immune C1)",1701,0,1701,0,0,1701
+"TCGA-A6-5662-11A-01R-1653-07","TCGA-A6-5662","Normal","Solid Tissue Normal","COAD","male",46,,,,,1,4.2,0.95,"Wound Healing (Immune C1)",718,0,,0,1,495
+"TCGA-CM-5861-01A-01R-1653-07","TCGA-CM-5861","Tumor","Primary Tumor","COAD","female",63,,"MSI-H","MANTIS (PanCanAtlas)",0.9692,34.37,45.76666667,0.74,"Wound Healing (Immune C1)",457,0,,0,1,335
+"TCGA-CA-6719-01A-11R-1839-07","TCGA-CA-6719","Tumor","Primary Tumor","COAD","male",77,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3645,0.24,3.833333333,0.57,"Wound Healing (Immune C1)",435,0,435,0,1,354
+"TCGA-F4-6459-01A-11R-1774-07","TCGA-F4-6459","Tumor","Primary Tumor","COAD","female",61,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3642,0.31,4.233333333,0.63,"Wound Healing (Immune C1)",262,1,262,1,0,262
+"TCGA-D5-6927-01A-21R-1928-07","TCGA-D5-6927","Tumor","Primary Tumor","COAD","male",34,"II","MSI-H","MANTIS (PanCanAtlas)",0.7283,17.61,22.16666667,0.49,"Wound Healing (Immune C1)",287,0,287,0,0,287
+"TCGA-DM-A0XD-01A-12R-A155-07","TCGA-DM-A0XD","Tumor","Primary Tumor","COAD","male",65,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3301,0.15,5.133333333,0.66,"IFN-gamma Dominant (Immune C2)",743,1,743,1,1,484
+"TCGA-4T-AA8H-01A-11R-A41B-07","TCGA-4T-AA8H","Tumor","Primary Tumor","COAD","female",42,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3144,0.17,4,0.72,"Wound Healing (Immune C1)",385,0,385,0,0,385
+"TCGA-AA-3696-01A-01R-0905-07","TCGA-AA-3696","Tumor","Primary Tumor","COAD","female",75,"IV","MSS/MSI-L","TCGA-2012 call",0.2665,0.4,2.7,0.83,"Wound Healing (Immune C1)",153,1,153,1,1,153
+"TCGA-AA-A01K-01A-01R-A00A-07","TCGA-AA-A01K","Tumor","Primary Tumor","COAD","female",74,"III","MSS/MSI-L","TCGA-2012 call",0.2795,1.3,,0.54,"Wound Healing (Immune C1)",943,0,943,0,0,943
+"TCGA-AA-3681-01A-01R-0905-07","TCGA-AA-3681","Tumor","Primary Tumor","COAD","female",77,"III","MSS/MSI-L","TCGA-2012 call",0.263,0.52,3.366666667,0.57,"Wound Healing (Immune C1)",182,0,182,0,0,182
+"TCGA-D5-5537-01A-21R-1928-07","TCGA-D5-5537","Tumor","Primary Tumor","COAD","male",83,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3494,0.42,3.166666667,0.71,"Wound Healing (Immune C1)",1381,1,1381,1,1,722
+"TCGA-D5-6532-01A-11R-1723-07","TCGA-D5-6532","Tumor","Primary Tumor","COAD","male",61,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3466,0.62,3.133333333,0.78,"Wound Healing (Immune C1)",555,0,555,0,0,555
+"TCGA-AY-A69D-01A-11R-A37K-07","TCGA-AY-A69D","Tumor","Primary Tumor","COAD","female",55,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3161,0.21,6.233333333,0.63,"Wound Healing (Immune C1)",543,0,543,0,0,543
+"TCGA-AA-A017-01A-01R-A00A-07","TCGA-AA-A017","Tumor","Primary Tumor","COAD","female",57,"II","MSS/MSI-L","TCGA-2012 call",0.28,1.19,1.833333333,0.58,"Wound Healing (Immune C1)",457,0,457,0,0,457
+"TCGA-G4-6322-01A-11R-1723-07","TCGA-G4-6322","Tumor","Primary Tumor","COAD","male",65,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3214,0.14,5.466666667,0.88,"Wound Healing (Immune C1)",792,0,792,0,1,789
+"TCGA-AZ-5407-01A-01R-1723-07","TCGA-AZ-5407","Tumor","Primary Tumor","COAD","female",51,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3611,0.46,3,0.73,"Wound Healing (Immune C1)",2683,0,2683,0,0,2683
+"TCGA-CM-4746-01A-01R-1410-07","TCGA-CM-4746","Tumor","Primary Tumor","COAD","male",61,"I","MSI-H","TCGA-2012 call",0.8512,21.49,24.13333333,0.81,"Wound Healing (Immune C1)",1126,0,1126,0,0,1126
+"TCGA-AA-3831-01A-01R-0905-07","TCGA-AA-3831","Tumor","Primary Tumor","COAD","male",66,"II","MSS/MSI-L","TCGA-2012 call",0.276,1.61,3.5,0.61,"Wound Healing (Immune C1)",547,0,547,0,0,547
+"TCGA-AA-3678-01A-01R-0905-07","TCGA-AA-3678","Tumor","Primary Tumor","COAD","female",60,"III","MSS/MSI-L","TCGA-2012 call",0.2741,0.65,2.2,0.65,"Wound Healing (Immune C1)",1430,0,1430,0,0,1430
+"TCGA-AA-A00R-01A-01R-A002-07","TCGA-AA-A00R","Tumor","Primary Tumor","COAD","female",64,"I","MSI-H","TCGA-2012 call",,12.68,,0.51,"IFN-gamma Dominant (Immune C2)",30,0,30,0,0,30
+"TCGA-AA-3968-01A-01R-1022-07","TCGA-AA-3968","Tumor","Primary Tumor","COAD","female",55,"I","MSS/MSI-L","TCGA-2012 call",0.331,0.22,4.533333333,0.71,"Wound Healing (Immune C1)",669,0,669,0,0,669
+"TCGA-F4-6463-01A-11R-1723-07","TCGA-F4-6463","Tumor","Primary Tumor","COAD","male",51,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3302,0.14,2.333333333,0.57,"Wound Healing (Immune C1)",1087,0,1087,0,0,1087
+"TCGA-CM-4744-01A-01R-A32Z-07","TCGA-CM-4744","Tumor","Primary Tumor","COAD","male",69,"I","MSS/MSI-L","TCGA-2012 call",0.3613,0.03,4.7,0.6,"Wound Healing (Immune C1)",609,0,609,0,0,609
+"TCGA-D5-7000-01A-11R-A32Z-07","TCGA-D5-7000","Tumor","Primary Tumor","COAD","female",79,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3496,0.06,3.4,0.67,"Wound Healing (Immune C1)",312,0,312,0,0,312
+"TCGA-AA-3534-01A-01R-0821-07","TCGA-AA-3534","Tumor","Primary Tumor","COAD","female",77,"II","MSS/MSI-L","TCGA-2012 call",0.3252,0.16,0.666666667,0.78,"Wound Healing (Immune C1)",882,0,882,0,0,882
+"TCGA-G4-6295-01A-11R-1723-07","TCGA-G4-6295","Tumor","Primary Tumor","COAD","female",70,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3241,0.24,6.466666667,0.69,"Wound Healing (Immune C1)",254,0,254,0,0,254
+"TCGA-AA-3685-01A-02R-A32Z-07","TCGA-AA-3685","Tumor","Primary Tumor","COAD","male",69,"II","MSS/MSI-L","TCGA-2012 call",0.2703,0.49,2.766666667,0.6,"IFN-gamma Dominant (Immune C2)",1127,0,1127,0,0,1127
+"TCGA-NH-A6GB-01A-11R-A37K-07","TCGA-NH-A6GB","Tumor","Primary Tumor","COAD","female",71,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3185,0.31,5,0.69,"Wound Healing (Immune C1)",476,0,476,0,0,476
+"TCGA-AA-A02F-01A-01R-A089-07","TCGA-AA-A02F","Tumor","Primary Tumor","COAD","female",68,"IV","MSS/MSI-L","TCGA-2012 call",0.2783,1.83,1.733333333,0.94,"Wound Healing (Immune C1)",1216,0,1216,0,0,1216
+"TCGA-AZ-4682-01B-01R-A32Z-07","TCGA-AZ-4682","Tumor","Primary Tumor","COAD","male",61,"IV","MSS/MSI-L","TCGA-2012 call",0.367,0.13,2.366666667,0.78,"Wound Healing (Immune C1)",680,1,680,1,1,680
+"TCGA-DM-A1D9-01A-11R-A155-07","TCGA-DM-A1D9","Tumor","Primary Tumor","COAD","female",67,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.335,0.33,4,0.81,"Wound Healing (Immune C1)",4270,0,4270,0,0,4270
+"TCGA-D5-6531-01A-11R-1723-07","TCGA-D5-6531","Tumor","Primary Tumor","COAD","male",75,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.347,0.81,5.7,0.62,"IFN-gamma Dominant (Immune C2)",540,0,540,0,0,540
+"TCGA-D5-6928-01A-11R-1928-07","TCGA-D5-6928","Tumor","Primary Tumor","COAD","male",80,"II","MSI-H","MANTIS (PanCanAtlas)",0.6559,14.76,53.83333333,0.31,"IFN-gamma Dominant (Immune C2)",354,0,354,0,0,354
+"TCGA-DM-A1D6-01A-21R-A155-07","TCGA-DM-A1D6","Tumor","Primary Tumor","COAD","male",88,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3534,0.53,3.133333333,0.9,"Wound Healing (Immune C1)",1518,1,570,1,0,1518
+"TCGA-D5-6539-01A-11R-1723-07","TCGA-D5-6539","Tumor","Primary Tumor","COAD","female",45,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3265,0,3.166666667,0.23,"Wound Healing (Immune C1)",380,0,380,0,0,380
+"TCGA-AA-3680-01A-01R-0905-07","TCGA-AA-3680","Tumor","Primary Tumor","COAD","female",67,"IV","MSS/MSI-L","TCGA-2012 call",0.2615,0.33,3.5,0.63,"Inflammatory (Immune C3)",335,1,335,1,1,335
+"TCGA-DM-A1DA-01A-11R-A155-07","TCGA-DM-A1DA","Tumor","Primary Tumor","COAD","female",71,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3952,2.42,8.466666667,0.92,"Wound Healing (Immune C1)",228,1,228,1,0,228
+"TCGA-D5-6530-01A-11R-1723-07","TCGA-D5-6530","Tumor","Primary Tumor","COAD","male",53,"I","MSI-H","MANTIS (PanCanAtlas)",1.0856,41.17,35.16666667,0.73,"IFN-gamma Dominant (Immune C2)",621,0,621,0,0,621
+"TCGA-AA-3660-11A-01R-1723-07","TCGA-AA-3660","Normal","Solid Tissue Normal","COAD","female",51,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3366,0.3,4.366666667,0.76,"Wound Healing (Immune C1)",2375,0,2375,0,0,2375
+"TCGA-AY-6197-01A-11R-1723-07","TCGA-AY-6197","Tumor","Primary Tumor","COAD","male",60,"II","MSI-H","MANTIS (PanCanAtlas)",0.965,31.61,35.26666667,0.8,"Wound Healing (Immune C1)",652,0,652,0,0,652
+"TCGA-A6-5664-01A-21R-1839-07","TCGA-A6-5664","Tumor","Primary Tumor","COAD","male",80,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4019,0,2.066666667,0.41,"Wound Healing (Immune C1)",672,0,672,0,1,183
+"TCGA-AA-3818-01A-01R-0905-07","TCGA-AA-3818","Tumor","Primary Tumor","COAD","female",78,"II","MSS/MSI-L","TCGA-2012 call",0.268,0.57,4.6,0.81,"Wound Healing (Immune C1)",30,1,30,1,1,30
+"TCGA-AA-3531-01A-01R-0821-07","TCGA-AA-3531","Tumor","Primary Tumor","COAD","female",75,"II","MSS/MSI-L","TCGA-2012 call",0.3268,0.86,1.166666667,0.93,"Wound Healing (Immune C1)",1035,0,1035,0,0,1035
+"TCGA-G4-6588-01A-11R-1774-07","TCGA-G4-6588","Tumor","Primary Tumor","COAD","female",58,,"MSI-H","MANTIS (PanCanAtlas)",1.0066,34.69,65.56666667,0.61,"Wound Healing (Immune C1)",796,0,,0,0,796
+"TCGA-AA-3979-01A-01R-1022-07","TCGA-AA-3979","Tumor","Primary Tumor","COAD","male",84,,"MSS/MSI-L","TCGA-2012 call",0.3186,1.51,4.333333333,0.92,"IFN-gamma Dominant (Immune C2)",730,0,,0,0,730
+"TCGA-A6-6649-01A-11R-1774-07","TCGA-A6-6649","Tumor","Primary Tumor","COAD","male",66,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.4012,0.19,3.966666667,0.43,"Wound Healing (Immune C1)",735,0,735,0,0,735
+"TCGA-A6-4105-01A-02R-1774-07","TCGA-A6-4105","Tumor","Primary Tumor","COAD","male",79,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3528,0.3,4.866666667,0.55,"Wound Healing (Immune C1)",442,1,442,1,1,364
+"TCGA-AY-4071-01A-01R-1113-07","TCGA-AY-4071","Tumor","Primary Tumor","COAD","female",63,"I","MSS/MSI-L","TCGA-2012 call",0.2716,1.3,3.833333333,0.6,"Wound Healing (Immune C1)",29,1,29,1,0,29
+"TCGA-AA-3556-01A-01R-0821-07","TCGA-AA-3556","Tumor","Primary Tumor","COAD","male",78,,"MSS/MSI-L","TCGA-2012 call",,,,0.78,,700,0,,0,0,700
+"TCGA-D5-5538-01A-01R-1653-07","TCGA-D5-5538","Tumor","Primary Tumor","COAD","female",60,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3546,0.4,3.5,0.69,"IFN-gamma Dominant (Immune C2)",1661,1,1661,1,1,1007
+"TCGA-CA-5255-01A-11R-1839-07","TCGA-CA-5255","Tumor","Primary Tumor","COAD","male",45,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3805,0.07,1.733333333,0.27,"Wound Healing (Immune C1)",376,0,376,0,0,376
+"TCGA-AA-3858-01A-01R-0905-07","TCGA-AA-3858","Tumor","Primary Tumor","COAD","male",67,"I","MSS/MSI-L","TCGA-2012 call",0.2586,0.37,2,0.6,"Wound Healing (Immune C1)",945,0,945,0,0,945
+"TCGA-AA-3939-01A-01R-1022-07","TCGA-AA-3939","Tumor","Primary Tumor","COAD","male",83,,"MSS/MSI-L","TCGA-2012 call",0.36,1.02,,,"Wound Healing (Immune C1)",395,0,,0,0,395
+"TCGA-F4-6807-01A-11R-1839-07","TCGA-F4-6807","Tumor","Primary Tumor","COAD","female",51,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3514,0,5.166666667,0.55,"Wound Healing (Immune C1)",1309,0,1309,0,0,1309
+"TCGA-AA-3510-01A-01R-1410-07","TCGA-AA-3510","Tumor","Primary Tumor","COAD","male",70,"II","MSS/MSI-L","TCGA-2012 call",0.341,0,102.9333333,0.58,"Wound Healing (Immune C1)",1946,0,1946,0,0,1946
+"TCGA-A6-6652-01A-11R-1774-07","TCGA-A6-6652","Tumor","Primary Tumor","COAD","male",59,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3866,0.3,2.533333333,0.84,"Wound Healing (Immune C1)",751,0,751,0,0,751
+"TCGA-AA-A00D-01A-01R-A002-07","TCGA-AA-A00D","Tumor","Primary Tumor","COAD","male",70,"I","MSS/MSI-L","TCGA-2012 call",,0,,0.52,"IFN-gamma Dominant (Immune C2)",578,0,578,0,0,578
+"TCGA-AA-3971-01A-01R-1022-07","TCGA-AA-3971","Tumor","Primary Tumor","COAD","male",58,"III","MSS/MSI-L","TCGA-2012 call",0.3362,0.49,2.633333333,0.54,"Wound Healing (Immune C1)",489,0,489,0,0,489
+"TCGA-D5-6529-01A-11R-1774-07","TCGA-D5-6529","Tumor","Primary Tumor","COAD","male",69,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3658,0.18,3.233333333,0.39,"Wound Healing (Immune C1)",614,0,,0,1,386
+"TCGA-CM-6676-01A-11R-1839-07","TCGA-CM-6676","Tumor","Primary Tumor","COAD","male",82,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.353,0.05,3.266666667,0.55,"Wound Healing (Immune C1)",337,0,337,0,0,337
+"TCGA-AZ-4315-01A-01R-1410-07","TCGA-AZ-4315","Tumor","Primary Tumor","COAD","male",61,"II","MSS/MSI-L","TCGA-2012 call",0.3429,0.67,211.3666667,0.66,"IFN-gamma Dominant (Immune C2)",1776,0,1776,0,0,1776
+"TCGA-AA-3695-01A-01R-0905-07","TCGA-AA-3695","Tumor","Primary Tumor","COAD","female",63,"IV","MSS/MSI-L","TCGA-2012 call",0.2817,0.65,4.9,0.75,,0,0,0,0,0,0
+"TCGA-AA-3984-01A-02R-1022-07","TCGA-AA-3984","Tumor","Primary Tumor","COAD","female",61,"II","MSS/MSI-L","TCGA-2012 call",0.3334,0.14,171.4,0.62,"IFN-gamma Dominant (Immune C2)",0,0,0,0,0,0
+"TCGA-CM-5349-01A-21R-1723-07","TCGA-CM-5349","Tumor","Primary Tumor","COAD","female",68,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3249,0,3.133333333,0.51,"Wound Healing (Immune C1)",915,0,915,0,0,915
+"TCGA-AA-3821-01A-01R-1022-07","TCGA-AA-3821","Tumor","Primary Tumor","COAD","female",81,"I","MSI-H","TCGA-2012 call",0.942,30.92,26.5,0.73,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AA-3532-01A-01R-0821-07","TCGA-AA-3532","Tumor","Primary Tumor","COAD","male",63,"II","MSS/MSI-L","TCGA-2012 call",0.3244,1.6,0.7,0.38,"IFN-gamma Dominant (Immune C2)",882,0,882,0,0,882
+"TCGA-CM-6169-01A-11R-1653-07","TCGA-CM-6169","Tumor","Primary Tumor","COAD","male",67,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3404,0.78,3.366666667,0.68,"IFN-gamma Dominant (Immune C2)",396,0,396,0,0,396
+"TCGA-DM-A28H-01A-11R-A16W-07","TCGA-DM-A28H","Tumor","Primary Tumor","COAD","male",50,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3898,0.15,4.166666667,0.74,"Wound Healing (Immune C1)",3561,0,,0,1,484
+"TCGA-CM-6164-01A-11R-1653-07","TCGA-CM-6164","Tumor","Primary Tumor","COAD","female",46,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3277,0.05,2.266666667,0.43,"Wound Healing (Immune C1)",883,0,883,0,0,883
+"TCGA-G4-6306-01A-11R-1774-07","TCGA-G4-6306","Tumor","Primary Tumor","COAD","male",71,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.3415,0.25,3.6,0.74,"Wound Healing (Immune C1)",1359,0,1359,0,0,1359
+"TCGA-CA-6718-01A-11R-1839-07","TCGA-CA-6718","Tumor","Primary Tumor","COAD","male",46,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3722,0,107.0666667,0.48,"IFN-gamma Dominant (Immune C2)",306,1,306,1,1,207
+"TCGA-G4-6311-01A-11R-1723-07","TCGA-G4-6311","Tumor","Primary Tumor","COAD","male",80,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3185,0.19,8.066666667,0.41,"Wound Healing (Immune C1)",1199,0,1199,0,0,1199
+"TCGA-AA-A03J-01A-21R-A16W-07","TCGA-AA-A03J","Tumor","Primary Tumor","COAD","female",65,"I","MSS/MSI-L","TCGA-2012 call",0.3238,0.22,2.666666667,0.45,"Wound Healing (Immune C1)",1246,0,1246,0,0,1246
+"TCGA-CM-5862-01A-01R-1653-07","TCGA-CM-5862","Tumor","Primary Tumor","COAD","male",80,"IV","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3545,1.45,2.866666667,0.86,"Wound Healing (Immune C1)",153,1,153,1,1,31
+"TCGA-QL-A97D-01A-12R-A41B-07","TCGA-QL-A97D","Tumor","Primary Tumor","COAD","female",84,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3204,0.56,7.1,0.59,"Wound Healing (Immune C1)",666,0,666,0,0,666
+"TCGA-AA-A01S-01A-21R-A083-07","TCGA-AA-A01S","Tumor","Primary Tumor","COAD","female",47,"III","MSS/MSI-L","TCGA-2012 call",0.325,0.6,1.7,0.9,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-A6-6137-01A-11R-1774-07","TCGA-A6-6137","Tumor","Primary Tumor","COAD","male",55,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3386,0.08,3.733333333,0.46,"Wound Healing (Immune C1)",824,0,824,0,0,824
+"TCGA-AA-3966-01A-01R-1113-07","TCGA-AA-3966","Tumor","Primary Tumor","COAD","female",89,"II","MSI-H","TCGA-2012 call",1.296,43.67,36.43333333,0.51,"Wound Healing (Immune C1)",61,0,61,0,0,61
+"TCGA-G4-6304-01A-11R-1928-07","TCGA-G4-6304","Tumor","Primary Tumor","COAD","female",66,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.5676,7.18,31,0.23,"Lymphocyte Depleted (Immune C4)",1631,0,,0,1,859
+"TCGA-AA-3973-01A-01R-1022-07","TCGA-AA-3973","Tumor","Primary Tumor","COAD","male",69,"IV","MSS/MSI-L","TCGA-2012 call",0.3291,0.47,2.833333333,0.92,"Inflammatory (Immune C3)",397,0,397,0,0,397
+"TCGA-CA-6717-01A-11R-1839-07","TCGA-CA-6717","Tumor","Primary Tumor","COAD","male",57,"II","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3653,0.01,320.7666667,,"Wound Healing (Immune C1)",388,0,388,0,0,388
+"TCGA-AA-3673-01A-01R-0905-07","TCGA-AA-3673","Tumor","Primary Tumor","COAD","female",53,"II","MSS/MSI-L","TCGA-2012 call",0.284,0.51,2.366666667,0.75,"Wound Healing (Immune C1)",1522,0,1522,0,0,1522
+"TCGA-AA-3955-01A-02R-1022-07","TCGA-AA-3955","Tumor","Primary Tumor","COAD","male",38,"III","MSS/MSI-L","TCGA-2012 call",0.3279,0.16,4.466666667,0.76,"Wound Healing (Immune C1)",638,0,638,0,0,638
+"TCGA-G4-6299-01A-11R-1774-07","TCGA-G4-6299","Tumor","Primary Tumor","COAD","male",69,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3963,0.88,5.333333333,0.54,"IFN-gamma Dominant (Immune C2)",2268,0,2268,0,0,2268
+"TCGA-AA-A00J-01A-02R-A002-07","TCGA-AA-A00J","Tumor","Primary Tumor","COAD","male",80,"III","MSI-H","TCGA-2012 call",,11.59,,0.82,"Wound Healing (Immune C1)",549,0,549,0,0,549
+"TCGA-D5-6540-01A-11R-1723-07","TCGA-D5-6540","Tumor","Primary Tumor","COAD","male",66,"I","MSI-H","MANTIS (PanCanAtlas)",0.9984,32.59,40.03333333,0.76,"Wound Healing (Immune C1)",491,0,491,0,0,491
+"TCGA-AA-3845-01A-01R-1022-07","TCGA-AA-3845","Tumor","Primary Tumor","COAD","female",86,"II","MSI-H","TCGA-2012 call",0.9169,30.53,30.4,0.59,"IFN-gamma Dominant (Immune C2)",0,1,0,1,1,0
+"TCGA-CA-6715-01A-21R-1839-07","TCGA-CA-6715","Tumor","Primary Tumor","COAD","male",63,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3669,0.11,3.233333333,0.88,"Wound Healing (Immune C1)",383,0,383,0,0,383
+"TCGA-A6-A566-01A-11R-A28H-07","TCGA-A6-A566","Tumor","Primary Tumor","COAD","female",55,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.2956,0,5.133333333,0.39,"Wound Healing (Immune C1)",758,1,758,1,1,257
+"TCGA-A6-3808-01A-01R-1022-07","TCGA-A6-3808","Tumor","Primary Tumor","COAD","male",73,"II","MSS/MSI-L","TCGA-2012 call",0.406,0.62,4.8,,"Wound Healing (Immune C1)",1014,0,1014,0,0,1014
+"TCGA-AA-A02W-01A-01R-A00A-07","TCGA-AA-A02W","Tumor","Primary Tumor","COAD","female",73,,"MSS/MSI-L","TCGA-2012 call",0.2652,0.77,3.066666667,0.72,"Wound Healing (Immune C1)",1247,0,,0,1,1005
+"TCGA-AA-3514-11A-01R-A32Z-07","TCGA-AA-3514","Normal","Solid Tissue Normal","COAD","female",81,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3123,1.1,1.933333333,0.79,"Wound Healing (Immune C1)",31,0,31,0,0,31
+"TCGA-AA-A01Z-01A-11R-A083-07","TCGA-AA-A01Z","Tumor","Primary Tumor","COAD","male",68,"II","MSS/MSI-L","TCGA-2012 call",0.3259,0.42,3.2,0.81,"Wound Healing (Immune C1)",1126,0,1126,0,1,1126
+"TCGA-CM-6167-01A-11R-1653-07","TCGA-CM-6167","Tumor","Primary Tumor","COAD","female",57,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3157,0.06,2.7,0.27,"Wound Healing (Immune C1)",456,0,456,0,0,456
+"TCGA-CM-4748-01A-01R-1410-07","TCGA-CM-4748","Tumor","Primary Tumor","COAD","male",53,"III","MSS/MSI-L","TCGA-2012 call",0.365,0.04,2.233333333,0.63,,792,0,792,0,0,792
+"TCGA-AA-3989-01A-01R-1022-07","TCGA-AA-3989","Tumor","Primary Tumor","COAD","male",84,"IV","MSS/MSI-L","TCGA-2012 call",0.3311,0.19,3.866666667,0.55,"Wound Healing (Immune C1)",242,1,242,1,1,242
+"TCGA-AA-3553-01A-01R-0821-07","TCGA-AA-3553","Tumor","Primary Tumor","COAD","female",61,"I","MSS/MSI-L","TCGA-2012 call",,0,,0.58,"Wound Healing (Immune C1)",730,0,730,0,0,730
+"TCGA-F4-6569-01A-11R-1774-07","TCGA-F4-6569","Tumor","Primary Tumor","COAD","male",60,"I","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3647,0.06,3.966666667,0.4,"Wound Healing (Immune C1)",1087,0,1087,0,0,1087
+"TCGA-CM-6678-01A-11R-1839-07","TCGA-CM-6678","Tumor","Primary Tumor","COAD","female",63,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.349,0.13,4.133333333,0.66,"Wound Healing (Immune C1)",335,0,,0,1,0
+"TCGA-NH-A50V-01A-11R-A28H-07","TCGA-NH-A50V","Tumor","Primary Tumor","COAD","male",69,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.2879,0.32,4.866666667,0.62,"Wound Healing (Immune C1)",588,0,588,0,0,588
+"TCGA-A6-A565-01A-31R-A28H-07","TCGA-A6-A565","Tumor","Primary Tumor","COAD","female",34,"III","MSS/MSI-L","MANTIS (PanCanAtlas)",0.3972,0.41,12.2,0.19,"Inflammatory (Immune C3)",494,1,494,1,1,301
+"TCGA-AY-A54L-01A-11R-A28H-07","TCGA-AY-A54L","Tumor","Primary Tumor","COAD","female",74,,"MSS/MSI-L","MANTIS (PanCanAtlas)",0.2932,0.39,4.733333333,0.44,"Wound Healing (Immune C1)",525,0,,0,1,396

@@ -1,0 +1,14 @@
+﻿Analysis,HR,Lower 95% CI,Upper 95% CI,P,n,Events
+"M0: unadjusted, all patients with OS",0.82,0.68,0.98,0.032,566,114
+"M0: unadjusted, restricted to the M2 sample",0.77,0.62,0.96,0.021,451,77
+"M1: age, sex, stage, site",0.83,0.68,1.02,0.077,459,77
+M1 refitted on the M2 sample (no MSI),0.86,0.7,1.06,0.162,451,77
+M2: + MSI (primary model),0.86,0.69,1.07,0.183,451,77
+"M2, follow-up truncated at 60 months",0.83,0.66,1.05,0.114,451,74
+"M2, stratified by stage",0.87,0.69,1.08,0.211,451,77
+"M2, log2CPM instead of VST",0.84,0.66,1.07,0.162,451,77
+"M2, MSS/MSI-L tumours only",0.84,0.67,1.06,0.139,393,69
+"Multiple imputation of stage and MSI (m=30), all patients with OS",0.85,0.7,1.03,0.097,566,114
+"M2, GLP2R high vs low (cohort median)",0.73,0.45,1.19,0.203,451,77
+"Progression-free interval, unadjusted",0.94,0.8,1.11,0.492,564,142
+"Progression-free interval, adjusted (M2 covariates)",0.95,0.76,1.21,0.697,451,72

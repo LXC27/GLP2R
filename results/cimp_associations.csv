@@ -1,0 +1,8 @@
+"cohort","variable","contrast","n_case","n_ref","median_case","median_ref","auc_case_gt_ref","p_wilcoxon","stratum","n_stratum","p_wilcoxon_stratum","beta_adjusted","p_adjusted","p_fdr"
+"TCGA","CIMP cluster (TCGA 2012)","CIMP-high vs other clusters",29,178,4.734,5.644,0.1588,0.000000003914,"MSS/MSI-L only",182,0.00002494,-0.6222,0.0001322,0.0000000274
+"GSE39582","CIMP status","+ vs -",91,405,3.207,3.267,0.4485,0.1245,"pMMR only",380,0.2653,-0.03499,0.2895,0.2801
+"GSE39582","BRAF mutation","M vs WT",51,461,3.227,3.261,0.4859,0.742,"pMMR only",392,0.691,0.0243,0.5691,0.8657
+"GSE39582","MMR status","dMMR vs pMMR",75,444,3.219,3.262,0.4493,0.1601,,,,,,0.2801
+"GSE39582","KRAS mutation","M vs WT",217,328,3.244,3.279,0.5039,0.8775,"pMMR only",426,0.9597,0.0106,0.6249,0.8775
+"GSE39582","TP53 mutation","M vs WT",190,161,3.276,3.259,0.5239,0.4406,"pMMR only",310,0.6297,0.002431,0.9254,0.6168
+"GSE39582","CIN status","+ vs -",354,110,3.272,3.201,0.5624,0.04795,"pMMR only",347,0.1621,0.02003,0.4859,0.1678

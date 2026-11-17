@@ -1,0 +1,11 @@
+﻿Item,Value
+Split,"566 patients with OS, event-stratified, approximately 70/30: training n=396 (80 events), test n=170 (34 events); seed 20240617"
+Steps computed before the split,Detection filter (566 patients with OS) and VST (591 tumours)
+Steps using training data only,"Gene standardisation (means, SDs), lambda, coefficients, risk-score median threshold"
+Lambda.min,0.02886
+Genes selected at lambda.min (|coefficient| > 1e-6; n = 8),"GLP2R(-0.065);ADCY5(0.152);SCTR(0.004);NFKB1(-0.205);NFKB2(0.135);SCT(0.034);ADCY4(0.056);DPP4(0.053) [AKT3 coefficient 4.3e-18, numerically zero, not counted]"
+Genes selected at lambda.1se,0
+"C-index of GLP2R alone, test set",0.553 (0.461-0.646)
+Bootstrap 95% CI of test-set C-index,0.403-0.627
+"Permutation reference (100 label-shuffled refits, each tuned by one 10-fold CV; descriptive): median C / one-sided P",0.5 / 0.178
+Share of permuted fits with an empty model,0.68

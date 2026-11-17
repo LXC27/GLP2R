@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code or these derived results, please cite the manuscript and this archive."
+title: "Reduced GLP2R expression in colorectal cancer: a confounder-adjusted multi-cohort analysis — reproducibility package"
+abstract: >-
+  Analysis code (R), numeric result ledger, data manifest and manuscript tables
+  for a confounder-adjusted multi-cohort analysis of GLP2R expression in
+  colorectal cancer, covering tumour-vs-normal expression, survival, the immune
+  microenvironment, transcriptional programmes, DNA methylation, copy number,
+  somatic mutation and an eight-gene LASSO-Cox signature, in TCGA-COADREAD and
+  GEO cohorts GSE39582 and GSE17536, plus pre-submission sensitivity analyses
+  (tissue-source-site, C-index comparators, Hartung-Knapp, MSI-stratified
+  heterogeneity, leave-GLP2R-out eigengene, MLH1 promoter-restricted control).
+  The data cache, R library and intermediate .rds objects are not included;
+  see README.md.
+type: software
+authors:
+  - family-names: "Lu"
+    given-names: "Xiangchen"
+    affiliation: "Chengdu Xinhua Hospital Affiliated to North Sichuan Medical College, Chengdu 610066, China"
+    orcid: "https://orcid.org/0009-0001-8824-8961"
+  - family-names: "Sun"
+    given-names: "Xiaoru"
+    affiliation: "Department of Otolaryngology Head & Neck Surgery, West China Hospital, Sichuan University, Chengdu 610041, China"
+    orcid: "https://orcid.org/0000-0001-8623-6935"
+  - family-names: "Li"
+    given-names: "Jinming"
+    affiliation: "Department of Colorectal Surgery, Fudan University Shanghai Cancer Center, Shanghai 200032, China"
+    orcid: "https://orcid.org/0000-0002-4870-9815"
+  - family-names: "Yang"
+    given-names: "Xin"
+    affiliation: "Department of Otolaryngology Head & Neck Surgery, West China Hospital, Sichuan University, Chengdu 610041, China"
+    orcid: "https://orcid.org/0009-0003-3319-5094"
+  - family-names: "Tao"
+    given-names: "Tianyi"
+    affiliation: "West China Institute for Smart Healthcare, West China Second University Hospital, Sichuan University, Chengdu 610041, China"
+    orcid: "https://orcid.org/0009-0007-9481-7909"
+  - family-names: "Cao"
+    given-names: "Haiquan"
+    affiliation: "Department of Critical Care Medicine, Beijing Anzhen Nanchong Hospital of Capital Medical University & Nanchong Central Hospital, Nanchong 637000, China"
+    orcid: "https://orcid.org/0009-0000-3434-7932"
+version: 2.0.0
+date-released: "2026-11-17"
+license: MIT
+repository-code: "https://github.com/LXC27/GLP2R"
+# Replace with the version DOI minted by Zenodo, e.g. 10.5281/zenodo.12345678
+doi: "ZENODO_DOI_PLACEHOLDER"
+keywords:
+  - GLP2R
+  - colorectal cancer
+  - microsatellite instability
+  - tumour microenvironment
+  - TCGA
+  - GSE39582
+  - GSE17536
+  - reproducibility
+  - survival analysis
